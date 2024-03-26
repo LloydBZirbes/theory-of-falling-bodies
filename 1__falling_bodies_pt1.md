@@ -30,8 +30,7 @@ Four balls of equal weight and size, but composed of different elements were dro
   
 
 ![](/img/fig02.jpg)
-
-Fig. 2  
+<sub>Fig. 2  </sub>
   
 RESULT  
   
@@ -47,8 +46,8 @@ Twenty steel balls of equal weight and size were arranged in a pyramidal shape s
   
 
 ![](/img/fig03.jpg)
+<sub>Fig. 3  </sub>
 
-Fig. 3  
   
 RESULT  
   
@@ -64,8 +63,8 @@ Three iron balls of equal weight and size were arranged as in figure 4, six feet
   
 
 ![](/img/fig04.jpg)
+<sub>Fig. 4  </sub>
 
-Fig. 4  
   
 RESULT  
   
@@ -73,8 +72,8 @@ The arrangement of the balls upon impact is diagrammed in figure 5.
   
 
 ![](/img/fig05.jpg)
+<sub>Fig. 5  </sub>
 
-Fig. 5  
   
 CONCLUSION  
   
@@ -86,8 +85,8 @@ Twenty steel balls of equal weight and size were arranged and spaced one foot ap
   
 
 ![](/img/fig06.jpg)
+<sub>Fig. 6  </sub>
 
-Fig. 6  
   
 RESULT  
   
@@ -95,15 +94,15 @@ Figure 7 shows the arrangement of the balls an instant before imapct as revealed
   
 
 ![](/img/fig07.jpg)
+<sub>Fig. 7  </sub>
 
-Fig. 7  
   
 Figure 8 shows the placement of the balls from the top view after impact.  
   
 
 ![](/img/fig08.jpg)
+<sub>Fig. 8  </sub>
 
-Fig. 8  
   
 CONCLUSION  
   
@@ -115,8 +114,8 @@ Two iron balls of equal weight and size were painted around the circumference as
   
 
 ![](/img/fig09.jpg)
+<sub>Fig. 9  </sub>
 
-Fig. 9  
   
 RESULT  
   
@@ -132,8 +131,8 @@ Iron balls of equal weight and size were suspended on six foot arms and were rot
   
 
 ![](/img/fig10.jpg)
+<sub>Fig. 10  </sub>
 
-Fig. 10  
   
 RESULT  
   
@@ -141,8 +140,8 @@ The oscilloscope display showed a donut shaped form which appeared at the instan
   
 
 ![](/img/fig11.jpg)
+<sub>Fig. 11  </sub>
 
-Fig. 11  
   
 CONCLUSION  
   
@@ -154,8 +153,8 @@ An identical apparatus to that used in test seven was constructed. The two units
   
 
 ![](/img/fig12.jpg)
+<sub>Fig. 12  </sub>
 
-Fig. 12  
   
 RESULT  
   
@@ -165,8 +164,8 @@ As the balls approached each other in their rotation the oscilloscope showed don
   
 
 ![](/img/fig13.jpg)
+<sub>Fig. 13  </sub>
 
-Fig. 13  
   
 CONCLUSION  
   
