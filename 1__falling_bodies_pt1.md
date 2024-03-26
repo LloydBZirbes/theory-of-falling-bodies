@@ -12,7 +12,7 @@ Though our conclusions are founded on literally thousands of tests, we have here
 Two iron balls of equal weight and size were placed six feet apart, and then were dropped simultaneously.  
   
 
-![](/img/fig01.jpg)
+![Diagram showing the trajectory of two spheres being dropped from a release point, they start at being  6 feet apart. The spheres a distance of 2000 feet. At the bottom the spheres are 50 feet apart](/img/fig01.jpg)
 <sub>Fig. 1  </sub>
 
   
