@@ -150,5 +150,5 @@ In other disclosures we have warned of future fusion reactions in our own atmosp
   
 As always, the most difficult task in assembling a paper such as this is trying to decide how much to say now, versus what can and should be said later. It is our hope that the decisions we've made in this regard were correct, and that the material we've included will succeed in presenting the broad overview of solar structure and function we sought. If our effort has indeed been successful, we will have left the reader with a good idea of solar structure, and more importantly, of the dynamics and method of power generation employed by our life giving nucleus. If it is now clear why we say the sun is not a nuclear reactor by current definition, then we have come a long way toward reaching our most urgent goal. Once it is understood that not only is fission anti-nature, but is in fact killing our planet, perhaps the people of earth will at last join together and declare, in unison, "ENOUGH IS ENOUGH".
 
-Previous: [Unity of All Things](2__unity_of_all_things.md)
-Next: [Solar Research](3__solar_research.md)
+Previous: [2. Unity of All Things](2__unity_of_all_things.md)
+Next: [4. The Theory of Falling Bodies II](4__falling_bodies_pt2.md)
