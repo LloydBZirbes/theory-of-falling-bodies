@@ -182,3 +182,5 @@ In other variations of this basic test, many different R.P.M.'s were employed. I
 COMMENT  
   
 Galileo was correct in his conclusion that iron balls accelerate at the same rate of speed within a given gravitational field, however, his work was grossly incomplete in that he'd never considered the acceleration of any element in respect to iron. Issac Newton then placed his mathematical calculations on the law of Galileo which stated that all falling bodies accelerate at the same rate of speed, and so developed a law which stated that gravity was always an attracting force. Albert Einstein then based his theories of relativity and general relativity on the work of Newton. Today we observe the entire scientific community basing their work on Einstein. Any thinking person can quickly see the danger in such a situation as our modern scientists plunge recklessly forward into technologies based on incomplete experiments and faulty theory. In absolute sincerity we say: they know not what they do.
+
+Next: [Unity of All Things](2__unity_of_all_things.md)
