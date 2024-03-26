@@ -6,9 +6,10 @@ Introduction
 To understand the principles of unity it is imperative that the simple, basic tests which are outlined in the next few pages are completely understood. These were gravity tests, and were conducted at the site of an abandoned mine shaft in Northern Minnesota during the early 1960's. The shaft was approximately two-thousand feet in depth, and the impact plane was monitored by a high speed camera. In the tests where balls of unlike elements were dropped for comparison, equal weights were achieved by hollowing out the centers of those heavier elements, thus ensuring equal air restance factors.  
   
 Though our conclusions are founded on literally thousands of tests, we have here outlined only the most pivotal tests, all of which are simple enough to be reproduced by anyone who harbors doubts as to the accuracy of our results or the validity of our conclusions. To layman and physicist alike we would say: study these tests and understand the results, for in unity the actions of all falling bodies are the same – be that body a sub-atomic particle or a universe, and so by building a solid foundation through the study of these tests, the reader will find it simple to comprehend what the use of current nuclear technologies are doing to Earth, and why they must be abandoned if we are to save this planet.  
-  
+
+ <div style="background-color: white;"> 
 ![](img/fig00.png)  
-  
+  </div>
 TEST ONE  
   
 Two iron balls of equal weight and size were placed six feet apart, and then were dropped simultaneously.  
