@@ -134,3 +134,6 @@ Project Stardust Team
 Lloyd B. Zirbes, Director  
   
 April 14, 1987
+
+Previous: [The Theory of Falling Bodies II](4__falling_bodies_pt2.md)
+Next: [Supplement 1: Beyond the Ionosphere](5__supplement1.md)
