@@ -1,5 +1,3 @@
-  Let's Learn Together! - Theory of Falling Bodies II by Zirbes Enterprises   [Back](/img/zirbes01.html) • [Return Home](https://letslearntogether.neocities.org/index.html)  
-  
 **Zirbes Enterprises  
   
 THEORY OF FALLING BODIES II**  
