@@ -1,5 +1,7 @@
 # This is a collection of all materials by the late scientist Lloyd B. Zirbes
 
+(a work in progress, as more materials are found they will be added here for posterity. If you have any materials not alreday included, please create a Pull Request!! )
+
 ## 1. [The Theory of Falling Bodies I](1__falling_bodies_pt1.md)
 ## 2. [Unity of All Things](2__unity_of_all_things.md)
 ## 3. [Solar Research](3__solar_research.md)
