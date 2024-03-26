@@ -23,4 +23,3 @@ The increase in energy exchange will also "heat" up the interior of our planet, 
 Much more could be said, but this outline of events will give the reader a fair idea of why we say the situation on earth is critical. To date the focus of the anti-nuclear movement has been to eliminate bombs and testing, control of radioactive wastes, etc. Few people have considered that perhaps the splitting of atoms in and of itself is anti-nature. Unless it is stopped and decontamination proceedures initiated, our future is bleak. The problems will not go away by themselves. Humankind has done the damage, and now we must repair it. The technology now exists which will provide the tools, but our group cannot do it alone. We seek allies!
 
 Previous: [Supplement 1: Beyond the Ionosphere](5__supplement1.md)
-Next: [Supplement 2: Nuclear Energy vs. Planet Earth ](6__supplement2.md)

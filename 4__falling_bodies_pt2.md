@@ -214,5 +214,5 @@ January 18, 1988
 Reproduction and distribution of this material is vigorously requested and encouraged.
 
 
-Previous: [The Theory of Falling Bodies II](4__falling_bodies_pt2.md)
+Previous: [3. Solar Research](3__solar_research.md)
 Next: [Supplement 1: Beyond the Ionosphere](5__supplement1.md)

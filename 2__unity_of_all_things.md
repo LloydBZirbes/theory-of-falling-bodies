@@ -267,4 +267,4 @@ In coping with the dangers which threaten, several emergency steps must be taken
 A small generator was built and tested, and we can produce the repulsive force. The theory is correct, and the technologies which will allow us to save ourselves waits to be developed. If you harbor doubts about the truth of what we assert, then we invite you to do everything in your power to prove us wrong. In the process you will become convinced that we are correct, and at that point we will very much welcome your participation in Project Stardust. It's time to take a stand!
 
 Previous: [The Theory of Falling Bodies I](1__falling_bodies_pt1.md)
-Next: [Unity of All Things](2__unity_of_all_things.md)
+Next: [Solar Research](3__solar_research.md)
