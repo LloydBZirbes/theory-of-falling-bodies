@@ -13,8 +13,8 @@ Two iron balls of equal weight and size were placed six feet apart, and then wer
   
 
 ![](/img/fig01.jpg)
+<sub>Fig. 1  </sub>
 
-Fig. 1  
   
 RESULT  
   
