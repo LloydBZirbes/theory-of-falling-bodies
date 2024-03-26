@@ -49,7 +49,7 @@ Fig. 48
 Upon exiting the body the extracted energy moves or "flows" in a direction that lies parallel to the body. This results in the "bubbles of nothing" called gravity orbiting the falling body, and due to the continued motion of the body, each orbit completed by a given "bubble" is slightly larger than its previous orbit (figure 49).  
   
 
-![](/img/fig49.png)
+![](/img/fig49.jpg)
 
 Fig. 49  
   
@@ -74,7 +74,7 @@ Fig. 51
 We will now turn figure 51 ninety degrees and observe the axis of rotation as illustrated in figure 49. In figure 52 we will attempt to show the return of extracted energy to the falling body. Figure 49 illustrates the outward flow of gravity, and in that figure the outermost line indicates the farthest reaches of the gravitational flow. This "edge" of the gravitational field is designated by an arrow in figure 49, and in figure 52 we will pick up where that arrow left off, and attempt to show the gravitational flow back into the body (figure 52).  
   
 
-![](/img/fig52.png)
+![](/img/fig52.jpg)
 
 Fig. 52  
   
@@ -96,7 +96,7 @@ We have seen why a falling body begins to rotate/spin, and we've seen that the s
 Michael Faraday discovered through hands-on experimentation that a spinning disc resulted in a flow of electric (mass) from the circumference of the spinning disc to the axis of the disc (figure 54).  
   
 
-![](/img/fig54.png)
+![](/img/fig54.jpg)
 
 Fig. 54  
   
@@ -105,14 +105,14 @@ Please note that existing drawings of Faraday's "unipole" generator show opposit
 We will now look at the element consistancy of a disc at rest, i.e., not turning (figure 55).  
   
 
-![](/img/fig55.png)
+![](/img/fig55.jpg)
 
 Fig. 55  
   
 As the above disc (which is not turning) is carefully checked with instruments, it is found that the disc is absolutely isotropic. This simply means that the atoms in the disc are consistent and in balance, and that each atom within the elements of the disc are using equal amounts of space. Now, using the very same disc but turning it at a rate of 2,000 R.P.M. we observe a complete change in the consistency. The axis and the area in the immediate vicinity of the axis become severely isotopic. In turn, the circumfrence of the spinning disc becomes severely radioisotopic (figure 56).  
   
 
-![](/img/fig56.png)
+![](/img/fig56.jpg)
 
 Fig. 56  
   
@@ -123,7 +123,7 @@ With all of this reasonably clear we may now continue on and examine the inertia
 That which generates the "power" to produce a flow of electric (i.e., mass) is motion. Motion is the result of gravity, and without gravity there can be no motion. The value of electrical flow is directly proportional to the velocity of the motion. Once again we turn to the Faraday generator (figure 57).  
   
 
-![](/img/fig57.png)
+![](/img/fig57.jpg)
 
 Fig. 57  
   
@@ -134,7 +134,7 @@ The axis area of the rotating/spinning disc or body now presents a condition whe
 It is commonly known that electric will follow the path of least resistance. Should a brush be placed on the axis and on the circumference of a spinning disc with a conductor between the brushes, a current (or electric) flow will exist in the conductor. In the case of the Faraday generator, should brushes and conductor not be used, an electrical flow is detected from the circumference of the rotating body to the axis areas through the air (figure 58).  
   
 
-![](/img/fig58.png)
+![](/img/fig58.jpg)
 
 Fig. 58  
   
@@ -143,7 +143,7 @@ This flow of electricity has been proven through careful testing by the Project 
 If the Faraday generator were placed in a concise east-west direction before being rotated, and if the generator were to be constructed of a material with a low permeability value, the flow of electric would be as shown previously in figure 58. However, should the same generator be placed in a precise magnetic north-south direction, the electrical flow will be as shown in figure 59.  
   
 
-![](/img/fig59.png)
+![](/img/fig59.jpg)
 
 Fig. 59  
   

@@ -7,13 +7,13 @@ To understand the principles of unity it is imperative that the simple, basic te
   
 Though our conclusions are founded on literally thousands of tests, we have here outlined only the most pivotal tests, all of which are simple enough to be reproduced by anyone who harbors doubts as to the accuracy of our results or the validity of our conclusions. To layman and physicist alike we would say: study these tests and understand the results, for in unity the actions of all falling bodies are the same – be that body a sub-atomic particle or a universe, and so by building a solid foundation through the study of these tests, the reader will find it simple to comprehend what the use of current nuclear technologies are doing to Earth, and why they must be abandoned if we are to save this planet.  
 
-![](img/fig00.png)  
+![](img/fig00.jpg)  
  
   
 Two iron balls of equal weight and size were placed six feet apart, and then were dropped simultaneously.  
   
 
-![](/img/fig01.png)
+![](/img/fig01.jpg)
 
 Fig. 1  
   
@@ -30,7 +30,7 @@ TEST TWO
 Four balls of equal weight and size, but composed of different elements were dropped simultaneously.  
   
 
-![](/img/fig02.png)
+![](/img/fig02.jpg)
 
 Fig. 2  
   
@@ -47,7 +47,7 @@ TEST THREE
 Twenty steel balls of equal weight and size were arranged in a pyramidal shape so that they were touching each other, and were then dropped simultaneously as a unit.  
   
 
-![](/img/fig03.png)
+![](/img/fig03.jpg)
 
 Fig. 3  
   
@@ -64,7 +64,7 @@ TEST FOUR
 Three iron balls of equal weight and size were arranged as in figure 4, six feet apart from one another, and were then dropped simultaneously.  
   
 
-![](/img/fig04.png)
+![](/img/fig04.jpg)
 
 Fig. 4  
   
@@ -73,7 +73,7 @@ RESULT
 The arrangement of the balls upon impact is diagrammed in figure 5.  
   
 
-![](/img/fig05.png)
+![](/img/fig05.jpg)
 
 Fig. 5  
   
@@ -86,7 +86,7 @@ TEST FIVE
 Twenty steel balls of equal weight and size were arranged and spaced one foot apart, as in figure 6. The balls were then dropped simultaneously.  
   
 
-![](/img/fig06.png)
+![](/img/fig06.jpg)
 
 Fig. 6  
   
