@@ -17,7 +17,7 @@ We have already stated that motion is the catalyst by which all else exists. For
 For the purposes of this paper, the term falling body is defined as any body which moves, or "falls" through a gravitational field. This includes all sub-atomic particles, solar systems, galaxies, universes, universal vortexes, and yet greater expanses. As indicated in our tests and illustrated below, a falling body produces about itself a force of extracted energy.  
   
 
-![](https://letslearntogether.neocities.org/compute/Zirbes/fig14.jpg)
+![](./img/fig14.jpg)
 
 Fig. 14  
   
@@ -26,14 +26,14 @@ This extracted energy attempts to return to the body it's been extracted from. A
 The major line of extraction of energy from a falling body is at the leading edge of the fall of that body, as illustrated in figure 15.  
   
 
-![](https://letslearntogether.neocities.org/compute/Zirbes/fig15.jpg)
+![](../img/fig15.jpg)
 
 Fig. 15  
   
 As has been indicated, the extracted energy attempts to return to the body it has been extracted from, however, motion at the rate of velocity squared will not allow this energy to return to the body. This pressure or "pull" is felt by the body, causing it to rotate in the direction of the energy extraction, as shown below.  
   
 
-![](https://letslearntogether.neocities.org/compute/Zirbes/fig16.jpg)
+![](../img/fig16.jpg)
 
 Fig. 16  
   
@@ -44,35 +44,35 @@ Size, velocity, composition of the body, and the value of the gravitational fiel
 The energy that's been extracted from the leading edge of a falling body presents an energy void to the body. This energy void is filled by an input of energy 90° from the leading edge of the falling body, as illustrated in figure 18.  
   
 
-![](https://letslearntogether.neocities.org/compute/Zirbes/fig18.jpg)
+![](../img/fig18.jpg)
 
 Fig. 18  
   
 This input energy taken in at the point of rotation (90° from the leading edge) is what is seen as the magnetic poles, indicated below.  
   
 
-![](https://letslearntogether.neocities.org/compute/Zirbes/fig19.jpg)
+![](../img/fig19.jpg)
 
 Fig. 19  
   
 The energy flow into the poles, combined with the extraction of energy at the leading edge of the fall, produces an energy flow which results in a magnetic field, as seen in figure 20.  
   
 
-![](https://letslearntogether.neocities.org/compute/Zirbes/fig20.jpg)
+![](../img/fig20.jpg)
 
 Fig. 20  
   
 A group of bodies which were in formation before the onset of their fall will produce the same results as a single falling body, with a few exceptions. As shown in test three, when multiple bodies fall as a unit, they group themselves into a spherical formation. Having done this, they will produce the same extracted force as does a single body, shown below.  
   
 
-![](https://letslearntogether.neocities.org/compute/Zirbes/fig21.jpg)
+![](../img/fig21.jpg)
 
 Fig. 21  
   
 At the same time, each individual body within this formation develops its own rotation, the rate of which depends upon the body's individual size and the velocity of the mass as a whole.  
   
 
-![](https://letslearntogether.neocities.org/compute/Zirbes/fig22.jpg)
+![](../img/fig22.jpg)
 
 Fig. 22  
   
@@ -81,7 +81,7 @@ As seen above, although these bodies combine their energies and rotate as a sing
 Stated in simple terms, a falling body is an energy exchanger, or in other words, is a transducer. The energy extracted at the leading edge of the fall is consistently the same value - the same sized bubble. Even so, the poles will accept any energy which may be available, be it neutral energy (bubbles) or polarized energy. The interior of a falling body is quite comparable to a variable resistor. The value of resistance is inversely proportional to the velocity of the body at the rate of velocity squared. To repeat: resistance goes down as the velocity is increased. This is illustrated in figure 23.  
   
 
-![](https://letslearntogether.neocities.org/compute/Zirbes/fig23.jpg)
+![](../img/fig23.jpg)
 
 Fig. 23  
   
@@ -90,14 +90,14 @@ Fig. 23
 As indicated, a falling body is a transducer and all bodies are falling. Every body has a value of internal resistance which is inversely proportional to velocity. When a body obtains a velocity of .9 times the speed of light, the internal resistance becomes a negligible factor. The body now accepts greater amounts of energy than it can radiate. This surplus energy now becomes very compact, and the minute bubbles of energy begin to pack together, as shown in figure 24.  
   
 
-![](https://letslearntogether.neocities.org/compute/Zirbes/fig24.jpg)
+![](../img/fig24.jpg)
 
 Fig. 24  
   
 As a result of this compression of bubbles, a particle of mass is formed. Mass is therefore no more than solidified energy. The compression of bubbles illustrated in figure 24 results in a particle, shown below.  
   
 
-![](https://letslearntogether.neocities.org/compute/Zirbes/fig25.jpg)
+![](../img/fig25.jpg)
 
 Fig. 25  
   
@@ -116,7 +116,7 @@ SUB-ATOMIC PARTICLES
 Minute bubbles of energy, which we call neutral energy, are the building blocks of solid particles. As long as this energy (bubbles) remains at or above the velocity of light, the bubbles remain unattached and independent, however, when the leading edge begins to slow, the trailing bubbles begin to collide with the slowed bubbles. This causes the bubbles to pile up and compact, i.e., some bubbles encase other bubbles, as illustrated in figure 26.  
   
 
-![](https://letslearntogether.neocities.org/compute/Zirbes/fig26.jpg)
+![](../img/fig26.jpg)
 
 Fig. 26  
   
@@ -147,14 +147,14 @@ We've also previously explained that as a body falls it "radiates" a force of ex
 All falling bodies are encased in an elongated shell which may also be seen as a bubble. This bubble represents the outermost reaches of the extracted energy, as illustrated in figure 27.  
   
 
-![](https://letslearntogether.neocities.org/compute/Zirbes/fig27.jpg)
+![](../img/fig27.jpg)
 
 Fig. 27  
   
 As can be seen, a particle or a body existing within that bubble is also a falling body. As shown in figure 28, falling body A produces field A, which attracts (pulls) body B towards body A.  
   
 
-![](https://letslearntogether.neocities.org/compute/Zirbes/fig28.jpg)
+![](../img/fig28.jpg)
 
 Fig. 28  
   
@@ -173,7 +173,7 @@ Unity dictates that all bodies and systems follow the same basic rules, and so t
 When looking at Mercury we see its rotation and orbit are very fast compared to the more distant planets. Orbiting Mercury are small chunks of debris which are too small to be classified as moons per se, however, they perform the same function and serve to balance the system. A simple electron system behaves in much the same way in that its orbit and rotation are faster than more distant electron systems, while its size and the sizes of its orbiting bodies are also smaller than more distant electron systems. It must be remembered that each system of particles, no matter how simple or complex, produces a force of extracted energy that creates a gravitational field (bubble) which draws all particles (bodies) within its field toward its center. At the same time, the orbiting particles (bodies) generate their own fields (bubbles) which in turn repells the primary gravitational field through which they fall. A simple electron system is illustrated in figure 29.  
   
 
-![](https://letslearntogether.neocities.org/compute/Zirbes/fig29.jpg)
+![](../img/fig29.jpg)
 
 Fig. 29  
   
@@ -182,7 +182,7 @@ We could break this simple system down yet further, but at this time it would li
 A complex electron system could be likened to the planet Jupiter with its many moons. A complex electron system, as shown in figure 30, is slower in both its rotation and its orbit as compared with a simple electron system, and will be found in the outermost orbits of the atom. Regardless of these differences, however, it operates on the same prinicples of attracton/repulsion as does a simple electron system, or any other system.  
   
 
-![](https://letslearntogether.neocities.org/compute/Zirbes/fig30.jpg)
+![](../img/fig30.jpg)
 
 Fig. 30  
   
@@ -205,7 +205,7 @@ We'll begin with a short explanation of radioactivity, which is not caused by th
 Now we will briefly discuss magnetism, and will consider the element iron. Due to the great strength of the repulsive forces generated by the many systems within an atom of iron, it is unaffected by the jipsee systems, and in fact this is a case where it is the jipsee system only which experiences disruptions and upheavals in the close encounter. Because of this strong repulsive force (the many reasons for which will be explained in detail in the future) and the relatively unique, symmetrical arrangement of the systems contained in all iron atoms, and the resulting symmetry of the atoms themselves, a current passing through the atom will experience an additive effect. The arrangement of some of the systems in a hypothetical atom of iron are illustrated in figure 31.  
   
 
-![](https://letslearntogether.neocities.org/compute/Zirbes/fig31.jpg)
+![](../img/fig31.jpg)
 
 Fig. 31  
 Atom Of Iron  
@@ -213,7 +213,7 @@ Atom Of Iron
 In an element such as gold, the repulsive forces of the various systems within the atom are relatively weak (as compared to iron) and so the jipsee systems have a great effect on these systems, and regularly alter their degree of tilt as they encounter these systems in their travels. A hypothetical and greatly simplified atom of gold is illustrated below.  
   
 
-![](https://letslearntogether.neocities.org/compute/Zirbes/fig32.jpg)
+![](../img/fig32.jpg)
 
 Fig. 32  
 Atom Of Gold  
