@@ -14,7 +14,7 @@ TEST ONE
 Two iron balls of equal weight and size were placed six feet apart, and then were dropped simultaneously.  
   
 
-![](/imgfig01.png)
+![](/img/fig01.png)
 
 Fig. 1  
   
@@ -31,7 +31,7 @@ TEST TWO
 Four balls of equal weight and size, but composed of different elements were dropped simultaneously.  
   
 
-![](/imgfig02.png)
+![](/img/fig02.png)
 
 Fig. 2  
   
@@ -48,7 +48,7 @@ TEST THREE
 Twenty steel balls of equal weight and size were arranged in a pyramidal shape so that they were touching each other, and were then dropped simultaneously as a unit.  
   
 
-![](/imgfig03.png)
+![](/img/fig03.png)
 
 Fig. 3  
   
@@ -65,7 +65,7 @@ TEST FOUR
 Three iron balls of equal weight and size were arranged as in figure 4, six feet apart from one another, and were then dropped simultaneously.  
   
 
-![](/imgfig04.png)
+![](/img/fig04.png)
 
 Fig. 4  
   
@@ -74,7 +74,7 @@ RESULT
 The arrangement of the balls upon impact is diagrammed in figure 5.  
   
 
-![](/imgfig05.png)
+![](/img/fig05.png)
 
 Fig. 5  
   
@@ -87,7 +87,7 @@ TEST FIVE
 Twenty steel balls of equal weight and size were arranged and spaced one foot apart, as in figure 6. The balls were then dropped simultaneously.  
   
 
-![](/imgfig06.png)
+![](/img/fig06.png)
 
 Fig. 6  
   
@@ -96,14 +96,14 @@ RESULT
 Figure 7 shows the arrangement of the balls an instant before imapct as revealed by the camera.  
   
 
-![](/imgfig07.jpg)
+![](/img/fig07.jpg)
 
 Fig. 7  
   
 Figure 8 shows the placement of the balls from the top view after impact.  
   
 
-![](/imgfig08.jpg)
+![](/img/fig08.jpg)
 
 Fig. 8  
   
@@ -116,7 +116,7 @@ TEST SIX
 Two iron balls of equal weight and size were painted around the circumference as in figure 9. They were then placed in the drop box so that the lines were exactly horizontal, and then were dropped simultaneously.  
   
 
-![](/imgfig09.jpg)
+![](/img/fig09.jpg)
 
 Fig. 9  
   
@@ -133,7 +133,7 @@ TEST SEVEN
 Iron balls of equal weight and size were suspended on six foot arms and were rotated in a clockwise direction, horizontally, around a pivot point. An antenna was placed in close tolerance to the circumference of the rotating balls. Attached to the antenna were extremely sensitive detection devices, which were in turn connected to an oscilloscope.  
   
 
-![](/imgfig10.jpg)
+![](/img/fig10.jpg)
 
 Fig. 10  
   
@@ -142,7 +142,7 @@ RESULT
 The oscilloscope display showed a donut shaped form which appeared at the instant a ball passed the antenna as shown in figure 11. The oscilloscope appeared to not retain any stigmentation.  
   
 
-![](/imgfig11.jpg)
+![](/img/fig11.jpg)
 
 Fig. 11  
   
@@ -155,7 +155,7 @@ TEST EIGHT
 An identical apparatus to that used in test seven was constructed. The two units were placed parallel to each other and were timed so that as the arms rotated, the balls would pass within ¼ inch of each other at point _x_.  
   
 
-![](/imgfig12.jpg)
+![](/img/fig12.jpg)
 
 Fig. 12  
   
@@ -166,7 +166,7 @@ Each time two balls met and passed each other at point _x_, a tremendous thump w
 As the balls approached each other in their rotation the oscilloscope showed donut shapes as in test seven. At the instant the balls were closest to each other in their rotation the oscilloscope showed sine waves. As the balls again began to move away from each other in their rotation, the donut shapes reappeared on the oscilloscope display, as shown in figure 13.  
   
 
-![](/imgfig13.jpg)
+![](/img/fig13.jpg)
 
 Fig. 13  
   
