@@ -37,6 +37,7 @@ Fig. 16
 Size, velocity, composition of the body, and the value of the gravitational field the body falls through are all major factors in the rate of the rotation. For instance, the larger the body, the faster the rotation, and the greater the velocity of the body the faster it will rotate. Also, a falling body composed of steel will rotate faster than an equal sized body of carbon, the reasons for which will be discussed in greater depth in the segment on atomic structure.  
   
 # [Missing Section]  
+### Missing figure 17 (this part of the typed manuscript is lost)
   
 The energy that's been extracted from the leading edge of a falling body presents an energy void to the body. This energy void is filled by an input of energy 90° from the leading edge of the falling body, as illustrated in figure 18.  
   
