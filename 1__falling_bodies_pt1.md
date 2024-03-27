@@ -2,7 +2,7 @@
 # FALLING BODIES THEORY  
 ## The Behavior Of Free Bodies In Space
   
-**Introduction ** 
+**Introduction** 
   
 To understand the principles of unity it is imperative that the simple, basic tests which are outlined in the next few pages are completely understood. These were gravity tests, and were conducted at the site of an abandoned mine shaft in Northern Minnesota during the early 1960's. The shaft was approximately two-thousand feet in depth, and the impact plane was monitored by a high speed camera. In the tests where balls of unlike elements were dropped for comparison, equal weights were achieved by hollowing out the centers of those heavier elements, thus ensuring equal air restance factors.  
   
@@ -17,11 +17,11 @@ Two iron balls of equal weight and size were placed six feet apart, and then wer
 <sub>Fig. 1  </sub>
 
   
-**RESULT **
+**RESULT**
   
 The camera clearly indicated that the iron balls impacted at the same instant. Examination of the impact plane showed the balls were fifty feet apart when they impacted.  
   
-****CONCLUSION **  **
+****CONCLUSION**  **
   
 Identical elements of equal weight and size accelerate at exactly the same rate of speed, and repel one another if dropped as individuals - apart from each other.  
   
@@ -33,11 +33,11 @@ Four balls of equal weight and size, but composed of different elements were dro
 ![](/img/fig02.jpg)
 <sub>Fig. 2  </sub>
   
-**RESULT **
+**RESULT**
   
 Each different element accelerated at a different rate.  
   
-**CONCLUSION **  
+**CONCLUSION**
   
 Different elements accelerate at different rates when falling through a given gravitational field.  
   
@@ -50,11 +50,11 @@ Twenty steel balls of equal weight and size were arranged in a pyramidal shape s
 <sub>Fig. 3  </sub>
 
   
-**RESULT **  
+**RESULT**  
   
 The camera revealed that as the balls approached the impact plane they were still a unit, but had rearranged themselves from a pyramidal form to a spherical shape.  
   
-**CONCLUSION **  
+**CONCLUSION**  
   
 Individual bodies of like elements that fall in tight formation with other bodies will always cling together and will always arrange themselves into a spherical formation.  
   
@@ -67,7 +67,7 @@ Three iron balls of equal weight and size were arranged as in figure 4, six feet
 <sub>Fig. 4  </sub>
 
   
-**RESULT **  
+**RESULT**  
   
 The arrangement of the balls upon impact is diagrammed in figure 5.  
   
@@ -76,7 +76,7 @@ The arrangement of the balls upon impact is diagrammed in figure 5.
 <sub>Fig. 5  </sub>
 
   
-**CONCLUSION **  
+**CONCLUSION**  
   
 Bodies of like elements that fall through a given gravitational field as individuals drift away from each other at equal rates.  
   
@@ -89,7 +89,7 @@ Twenty steel balls of equal weight and size were arranged and spaced one foot ap
 <sub>Fig. 6  </sub>
 
   
-**RESULT **  
+**RESULT**  
   
 Figure 7 shows the arrangement of the balls an instant before imapct as revealed by the camera.  
   
@@ -105,7 +105,7 @@ Figure 8 shows the placement of the balls from the top view after impact.
 <sub>Fig. 8  </sub>
 
   
-**CONCLUSION **
+**CONCLUSION**
   
 Individual bodies that fall as a mass in loose formation drift apart on a 360° horizontal plane and on an 180° vertical plane simultaneously.  
   
@@ -118,11 +118,11 @@ Two iron balls of equal weight and size were painted around the circumference as
 <sub>Fig. 9  </sub>
 
   
-**RESULT **  
+**RESULT**  
   
 An instant before impact the camera showed that the painted lines were no longer in their original position. After impact the two balls rolled away in the same direction.  
   
-**CONCLUSION **  
+**CONCLUSION**  
   
 All bodies will develop a given rotation. This is true whether one speaks of a single body, a mass of bodies in loose formation, or a mass of bodies in close formation. These rotating bodies, if dropped as individuals (apart from each other) repel one another at equal rates.  
   
@@ -135,7 +135,7 @@ Iron balls of equal weight and size were suspended on six foot arms and were rot
 <sub>Fig. 10  </sub>
 
   
-**RESULT **  
+**RESULT**  
   
 The oscilloscope display showed a donut shaped form which appeared at the instant a ball passed the antenna as shown in figure 11. The oscilloscope appeared to not retain any stigmentation.  
   
@@ -144,7 +144,7 @@ The oscilloscope display showed a donut shaped form which appeared at the instan
 <sub>Fig. 11  </sub>
 
   
-**CONCLUSION **  
+**CONCLUSION**  
   
 A body in motion produces a field and/or force which appears donut shaped on an oscilloscope display. This field (and/or force) has not been identified by the scientific community to date.  
   
@@ -157,7 +157,7 @@ An identical apparatus to that used in test seven was constructed. The two units
 <sub>Fig. 12  </sub>
 
   
-**RESULT **  
+**RESULT**  
   
 Each time two balls met and passed each other at point _x_, a tremendous thump was heard, and the test stand (a six inch diameter shaft mounted in concrete) reacted violently.  
   
@@ -168,7 +168,7 @@ As the balls approached each other in their rotation the oscilloscope showed don
 <sub>Fig. 13  </sub>
 
   
-**CONCLUSION **  
+**CONCLUSION**  
   
 The field (and/or force) which surrounds a body in motion repels the field (and/or force) which surrounds a second body in motion. The field (and/or force) that surrounds a body in motion produces an energy which is not polarized. It appears as a bubble (a donut, or a circle) on an oscilloscope display. When this field (and/or force) is forced into collision with the field (and/or force) that surrounds a second body, the bubbles break, then unite with each other to produce polarized energy, i.e.: sine waves.  
   
