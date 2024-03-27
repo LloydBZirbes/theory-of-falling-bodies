@@ -21,7 +21,7 @@ Two iron balls of equal weight and size were placed six feet apart, and then wer
   
 The camera clearly indicated that the iron balls impacted at the same instant. Examination of the impact plane showed the balls were fifty feet apart when they impacted.  
   
-****CONCLUSION**  **
+**CONCLUSION**
   
 Identical elements of equal weight and size accelerate at exactly the same rate of speed, and repel one another if dropped as individuals - apart from each other.  
   
