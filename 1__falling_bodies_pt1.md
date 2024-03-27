@@ -8,7 +8,7 @@ To understand the principles of unity it is imperative that the simple, basic te
   
 Though our conclusions are founded on literally thousands of tests, we have here outlined only the most pivotal tests, all of which are simple enough to be reproduced by anyone who harbors doubts as to the accuracy of our results or the validity of our conclusions. To layman and physicist alike we would say: study these tests and understand the results, for in unity the actions of all falling bodies are the same – be that body a sub-atomic particle or a universe, and so by building a solid foundation through the study of these tests, the reader will find it simple to comprehend what the use of current nuclear technologies are doing to Earth, and why they must be abandoned if we are to save this planet.  
 
-### TEST ONE
+### [TEST ONE](#test-one) {#test-one}
 
 Two iron balls of equal weight and size were placed six feet apart, and then were dropped simultaneously.  
   
@@ -25,7 +25,7 @@ The camera clearly indicated that the iron balls impacted at the same instant. E
   
 Identical elements of equal weight and size accelerate at exactly the same rate of speed, and repel one another if dropped as individuals - apart from each other.  
   
-###  TEST TWO  
+###  [TEST TWO](#test-two) {#test-two} 
   
 Four balls of equal weight and size, but composed of different elements were dropped simultaneously.  
   
@@ -41,7 +41,7 @@ Each different element accelerated at a different rate.
   
 Different elements accelerate at different rates when falling through a given gravitational field.  
   
-###  TEST THREE  
+###  [TEST THREE](#test-three) {#test-three}
   
 Twenty steel balls of equal weight and size were arranged in a pyramidal shape so that they were touching each other, and were then dropped simultaneously as a unit.  
   
@@ -58,7 +58,7 @@ The camera revealed that as the balls approached the impact plane they were stil
   
 Individual bodies of like elements that fall in tight formation with other bodies will always cling together and will always arrange themselves into a spherical formation.  
   
-### TEST FOUR  
+### [TEST FOUR](#test-four) {#test-four}
   
 Three iron balls of equal weight and size were arranged as in figure 4, six feet apart from one another, and were then dropped simultaneously.  
   
@@ -80,7 +80,7 @@ The arrangement of the balls upon impact is diagrammed in figure 5.
   
 Bodies of like elements that fall through a given gravitational field as individuals drift away from each other at equal rates.  
   
-### TEST FIVE  
+### [TEST FIVE](#test-five) {#test-five} 
   
 Twenty steel balls of equal weight and size were arranged and spaced one foot apart, as in figure 6. The balls were then dropped simultaneously.  
   
@@ -109,7 +109,7 @@ Figure 8 shows the placement of the balls from the top view after impact.
   
 Individual bodies that fall as a mass in loose formation drift apart on a 360° horizontal plane and on an 180° vertical plane simultaneously.  
   
-### TEST SIX  
+### [TEST SIX](#test-six) {#test-six}
   
 Two iron balls of equal weight and size were painted around the circumference as in figure 9. They were then placed in the drop box so that the lines were exactly horizontal, and then were dropped simultaneously.  
   
@@ -126,7 +126,7 @@ An instant before impact the camera showed that the painted lines were no longer
   
 All bodies will develop a given rotation. This is true whether one speaks of a single body, a mass of bodies in loose formation, or a mass of bodies in close formation. These rotating bodies, if dropped as individuals (apart from each other) repel one another at equal rates.  
   
-### TEST SEVEN  
+### [TEST SEVEN](#test-seven) {#test-seven}
   
 Iron balls of equal weight and size were suspended on six foot arms and were rotated in a clockwise direction, horizontally, around a pivot point. An antenna was placed in close tolerance to the circumference of the rotating balls. Attached to the antenna were extremely sensitive detection devices, which were in turn connected to an oscilloscope.  
   
@@ -148,7 +148,7 @@ The oscilloscope display showed a donut shaped form which appeared at the instan
   
 A body in motion produces a field and/or force which appears donut shaped on an oscilloscope display. This field (and/or force) has not been identified by the scientific community to date.  
   
-### TEST EIGHT  
+### [TEST EIGHT](#test-eight) {#test-eight}
   
 An identical apparatus to that used in test seven was constructed. The two units were placed parallel to each other and were timed so that as the arms rotated, the balls would pass within ¼ inch of each other at point _x_.  
   
