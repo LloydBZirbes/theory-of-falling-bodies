@@ -1,29 +1,22 @@
-**Zirbes Enterprises  
+**Zirbes Enterprises**
   
-SOLAR RESEARCH**  
+# SOLAR RESEARCH
   
-Introduction  
+**Introduction**
   
 In the mid 1970's an indepth study of our solar system's nucleus, the sun, was initiated by the Stardust Team which has lead to may startling discoveries. The experimental methods employed included collecting photographs, drawings, and detailed data from many observatories and research stations around the world, building models based on the data, and making countless calculations. Working to make sense of seeming contradictions exhibited by the sun, our team focused on its many well documented but unexplained behaviors and characteristics, a few of which are listed below, and gradually a clear picture began to emerge.  
   
 Major Solar "Mysteries":  
   
 1) The solar surface appears "grainy"  
-  
 2) The sun emits many different frequencies  
-  
 3) Solar storms vary in both size and field strength  
-  
-4) Solar flares are relatively common occurrences  
-  
+4) Solar flares are relatively common occurrences 
 5) Solar storms often move over the surface of the sun with no regard for the direction of the sun's rotation  
-  
 6) Solar promineneces occur in which trillioins of tons of mass temporarily escape from the main body of the sun and relocate elsewhere  
-  
 7) The solar surface contains many crevasses and valleys which appear, remain for a length of time, and then disappear  
-  
 8) The sun shines and is hot, and the earth shines and experiences warmth from the sun, yet space is cold and dark  
-  
+
 If the reader has ever tried to follow the reasoning of current scientific thought on these and other questions, then two things should be clear, namely, the scientific community as a whole is convinced that our sun is in effect a huge nuclear reactor, and that because of this conviction their subsequent theories are speculative and/or contradictory and confused. If the reader were to take the time to delve into current theory on questions relating to solar activity, it would quickly become apparent that no theory is too contradictory to be given loud applause and wide circulation, if only said theory does not in any way conflict with the idea that the sun is a nuclear reactor.  
   
 After completing our study of falling bodies in general, we fully realized that modern science was not infallible, so in solar research we relied only on direct evidence, and ignored all previous theories. Masses of accumulated information were sorted and classified, then based on this data various solar models were constructed and analyzed. Clearly, there were two possible explanations for the existence of multiple and changing magnetic fields on the sun. One would be if through the use of broad assumptions and "open parameters" we were to make the sun into a unique phenomenon, capable of producing these many fields even though it was a single body (as current theory mantains). The other possible explanation was that the sun was not a single body at all. Since it's a well demonstrated fact that in nature a single body cannot produce many poled fields, and because we had denied ourselves the use of arbitrary assumptions, our team agreed to consider the possibility that the sun was multi-bodied, and we constructed our models accordingly. Mathematical calculations were made based on what we then knew about the dynamics of falling bodies from previous research, and year by year the mysteries began to solve themselves.  
