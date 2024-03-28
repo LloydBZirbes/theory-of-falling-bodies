@@ -6,7 +6,7 @@ As a body begins to fall a centrifugal force is applied to the body and is "felt
   
 
 ![](/img/fig43.jpg)
-Fig. 43  
+Fig. 43(#fig43)
   
 This centrifugal force results in mass being "compressed" at the upper portion of the body, i.e., in the opposite direction of the fall (figure 44).  
   
@@ -195,4 +195,5 @@ Reproduction and distribution of this material is vigorously requested and encou
 
 
 Previous: [3. Solar Research](3__solar_research.md)
+
 Next: [Supplement 1: Beyond the Ionosphere](5__supplement1.md)
