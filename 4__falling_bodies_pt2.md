@@ -140,7 +140,7 @@ To quickly review: a falling body rotates due to centrifugal force, creating an 
 ![](/img/fig60.jpg)
 Fig. 60  
   
-It is now time to show some of the finer details of what was happening to those test balls by applying what we know of gravity and magnetism. Figure 61 illustrates the rotation and electrical flow of one of our test bodies (see paper titled Tests and Results, test 6, figure 9) in respect to the planet earth.  
+It is now time to show some of the finer details of what was happening to those test balls by applying what we know of gravity and magnetism. Figure 61 illustrates the rotation and electrical flow of one of our test bodies (see paper titled Tests and Results, [test 6, figure 9](https://lloydbzirbes.github.io/docs/1__falling_bodies_pt1.html#test-six)) in respect to the planet earth.  
   
 
 ![](/img/fig61.jpg)
