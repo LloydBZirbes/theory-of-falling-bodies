@@ -1,7 +1,9 @@
 ![](img/fig00.jpg)  
 # FALLING BODIES THEORY  
 ## The Behavior Of Free Bodies In Space
-  
+
+## UNITY OF ALL THINGS
+
 **Introduction** 
   
 To understand the principles of unity it is imperative that the simple, basic tests which are outlined in the next few pages are completely understood. These were gravity tests, and were conducted at the site of an abandoned mine shaft in Northern Minnesota during the early 1960's. The shaft was approximately two-thousand feet in depth, and the impact plane was monitored by a high speed camera. In the tests where balls of unlike elements were dropped for comparison, equal weights were achieved by hollowing out the centers of those heavier elements, thus ensuring equal air restance factors.  

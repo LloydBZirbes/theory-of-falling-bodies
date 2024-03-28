@@ -1,5 +1,5 @@
-# Lloyd B. Zirbes: all his writings on Physics
-
+# Lloyd B. Zirbes: FALLING BODIES THEORY  
+## The Behavior Of Free Bodies In Space
 (a work in progress, as more materials are found they will be added here for posterity. If you have any materials not alreday included, please create a Pull Request!! )
 
 As noted by Lloyd himself: "Reproduction and distribution of this material is vigorously requested and encouraged."
