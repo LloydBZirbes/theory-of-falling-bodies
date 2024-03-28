@@ -1,4 +1,4 @@
-# This is a collection of all materials by the late scientist Lloyd B. Zirbes
+# Lloyd B. Zirbes: all his writings on Physics
 
 (a work in progress, as more materials are found they will be added here for posterity. If you have any materials not alreday included, please create a Pull Request!! )
 
@@ -10,3 +10,7 @@ As noted by Lloyd himself: "Reproduction and distribution of this material is vi
 ## 4. [The Theory of Falling Bodies II](4__falling_bodies_pt2.md)
 ## 5. [Supplement 1: Beyond the Ionosphere](5__supplement1.md)
 ## 6. [Supplement 2: Nuclear Energy vs. Planet Earth ](6__supplement2.md)
+
+# building the Zirbes motor
+### [Blueprints](original/blueprints)
+### [Prototypes](original/prototypes)
