@@ -1,36 +1,29 @@
-**Zirbes Enterprises  
+**Zirbes Enterprises**
   
-SOLAR RESEARCH**  
+# SOLAR RESEARCH
   
-Introduction  
+**Introduction**
   
 In the mid 1970's an indepth study of our solar system's nucleus, the sun, was initiated by the Stardust Team which has lead to may startling discoveries. The experimental methods employed included collecting photographs, drawings, and detailed data from many observatories and research stations around the world, building models based on the data, and making countless calculations. Working to make sense of seeming contradictions exhibited by the sun, our team focused on its many well documented but unexplained behaviors and characteristics, a few of which are listed below, and gradually a clear picture began to emerge.  
   
 Major Solar "Mysteries":  
   
 1) The solar surface appears "grainy"  
-  
 2) The sun emits many different frequencies  
-  
 3) Solar storms vary in both size and field strength  
-  
-4) Solar flares are relatively common occurrences  
-  
+4) Solar flares are relatively common occurrences 
 5) Solar storms often move over the surface of the sun with no regard for the direction of the sun's rotation  
-  
 6) Solar promineneces occur in which trillioins of tons of mass temporarily escape from the main body of the sun and relocate elsewhere  
-  
 7) The solar surface contains many crevasses and valleys which appear, remain for a length of time, and then disappear  
-  
 8) The sun shines and is hot, and the earth shines and experiences warmth from the sun, yet space is cold and dark  
-  
+
 If the reader has ever tried to follow the reasoning of current scientific thought on these and other questions, then two things should be clear, namely, the scientific community as a whole is convinced that our sun is in effect a huge nuclear reactor, and that because of this conviction their subsequent theories are speculative and/or contradictory and confused. If the reader were to take the time to delve into current theory on questions relating to solar activity, it would quickly become apparent that no theory is too contradictory to be given loud applause and wide circulation, if only said theory does not in any way conflict with the idea that the sun is a nuclear reactor.  
   
 After completing our study of falling bodies in general, we fully realized that modern science was not infallible, so in solar research we relied only on direct evidence, and ignored all previous theories. Masses of accumulated information were sorted and classified, then based on this data various solar models were constructed and analyzed. Clearly, there were two possible explanations for the existence of multiple and changing magnetic fields on the sun. One would be if through the use of broad assumptions and "open parameters" we were to make the sun into a unique phenomenon, capable of producing these many fields even though it was a single body (as current theory mantains). The other possible explanation was that the sun was not a single body at all. Since it's a well demonstrated fact that in nature a single body cannot produce many poled fields, and because we had denied ourselves the use of arbitrary assumptions, our team agreed to consider the possibility that the sun was multi-bodied, and we constructed our models accordingly. Mathematical calculations were made based on what we then knew about the dynamics of falling bodies from previous research, and year by year the mysteries began to solve themselves.  
   
 To go into laborous details as to the proceedures and logical processes followed at each stage of the research would be to misplace the focus and goals of this paper. We will thefore begin this discussion by giving a general overview of our theory of solar structure so as to build the foundation which will allow the visual imagination to more easily grasp the dynamics of solar function. From this base we hope to then clearly explain some of the major actions and current mysteries of the sun in simple terminology, so that at the end of this paper there remains no doubt that our sun is not a nuclear reactor as is currently believed and taught. Nuclear reactions do occur, but these are secondary actions, and are not the major source of heat and light generation. Nuclear fission and fusion as currently employed on earth are not the same as the nuclear reactions which take place on the sun. We aim to show that the modern myth that nuclear fission and fusion for power generation is a thing of nature is not only a false belief, but is a deadly belief as well. Fission and fusion, earth style is anti-nature, and if we clearly show why this is so, then this simple paper will have been a great success.  
   
-Solar Structure  
+### Solar Structure  
   
 Deep within our nucleus, the sun, reside many huge bodies which are roughly the size of the planet Jupiter. Each has its own rotation rate and builds a field of extracted energy about itself as does any falling body. The repulsive action of this field of energy guarantees space between the bodies. Calculations show there are approximately two-thousand of these massive bodies, all rotating at a rate determined by their specific mass. Though there is this variation in their individual rotation rates due to differing mass factors, these huge bodies are all orbiting the center of gravity at roughly the same rate, and due to their close proximity to the center of gravity they together complete an orbit of this gravitational center approximately every forty-eight hours. These massive bodies, individually and as a unit, are in motion at an extremely high velocity.  
   
@@ -40,21 +33,18 @@ The area between the major bodies (interior near the gravitational center) and t
   
 
 ![](/img/fig33.jpg)
-
 Fig. 33  
   
 We've explained that the major bodies are in close proximity to the center of gravity and complete an orbit of this center approximately every forty-eight hours, and that the minor bodies at a greater distance complete the same orbit of the center every thirty-two days. All of the intermediate bodies residing between these two extremes also orbit the same center, but at varying rates determined by their mass and subsequent position within the body of the sun. The larger of these intermediate bodies will be found closer to the major bodies nearer the center, and their rotation rate approaches that of the major bodies. Also, being relatively close to the center of gravity of the sun allows them to complete an orbit of that center in a relatively short period of time. The smaller intermediate bodies will have a slower rotation rate, and because they reside closer to the surface of the sun and farther from the center of gravity, the time it takes for one of these bodies to complete an orbit of the center is more than for larger bodies. This concept of varying orbital rates is roughly illustrated in the cross section bellow.  
   
 
 ![](/img/fig34.jpg)
-
 Fig. 34  
   
 At the exact center of the sun is found one huge body which is the exact center of gravity of the sun. Its rotation rate is so fast as to be measured in hours rather than days, and calculated in miles per second, the rate at the surface is astronomical. Surrounding and orbiting this central body are found the largest of the major bodies which together with the central body form the sun's core. These large bodies have reached a relative balance in that their poles are aligned North to South, allowing them to operate as a strong unit of bodies. Due to the repulsive force generated by each of them, space still exists between them and they all continue to rotate individually, but the attraction between their poles is great enough that they remain "locked" in a magnetic embrace. Figure 35 attempts to illustrate this below.  
   
-
+## SOLAR CORE
 ![](/img/fig35.jpg)
-
 Fig. 35  
   
 The bodies which form the core of the sun also rotate as a single body, and so jointly produce a second, larger field of extracted energy (see test three, and figures 21 and 22). This core represents the center of gravity of both the sun and of our solar system as a whole, and the powerful gravitational field it produces exerts a strong influence on bodies in close proximity, holding them tightly within a relatively small area, causing less space to exist between the major bodies than there would be if no core existed. Together the core and the major bodies comprise what could be called the nucleus of the sun, and within this nucleus is found 99.9% of the total mass of the sun.  
@@ -65,12 +55,11 @@ Before we move on it should be mentioned that the core and major bodies existing
   
 
 ![](/img/fig36.jpg)
-
 Fig. 36  
   
 Again, knowledge of the existence and origin of the secondary bodies is not vital to this particular paper, but if the reader would decide to pursue the subject of solar structure by investigating some of the fine work published in recent years, particularlly in the area of helioseismology, a basic understanding of the dynamics of these secondary bodies allows one to quickly make sense of the results produced by this research. It is not difficult to see why these research stations are detecting such a wide range of frequencies (oscillations) from the sun as a whole, and frequencies within frequencies in the cases of polarized, secondary bodies. Clearly, when a major frequency is detected on the surface of the sun its cause is the fact that the secondary body is rotating as if it were a single body, while at the same time each and every minor body within this system also continues to rotate (oscillate) and so sends out an individual frequency. Some of the computer models produced by the helioseismologists quite beautifully illustrate the multi-bodied structure of the sun (example: cover, _Scientific American Magazine_, 9/85) and the data on which the models are based does not conflict with our assertion that the sun is multi-bodied. On the contrary, their findings fully support our model of solar structure, and so deserve careful study by persons interested in our research on the sun.  
   
-Solar Dynamics  
+### Solar Dynamics  
   
 If basic solar structure is now reasonably clear in the reader's mind, the picture is not yet complete until we consider the violent forces at work within the body of the sun, because to visualize the many bodies within our nucleus as rotating and orbiting peacefully would be incorrect. Due to the various velocities involved, the many sizes of bodies all possessing independent magnetic fields and rotation rates, and the fact that as falling bodies they must orbit the center of the primary gravitational field through which they fall, conflicts are inevitable and ongoing. It would therefore be much more accurate to visualize the sun as a twisting, churning mass of bodies in a furious struggle to obey their "urge" to follow a given orbit at a given velocity and rotation rate, while they are simultaneously thwarted in this endeavor by opposition presented by the repulsive actions of other fields whose bodies vie for the same space in an effort to satisfy their own "urges". The net effect of these ongoing confrontations is a mass of bodies raging violently in constant conflict with neighboring bodies and experiencing compulsory and often extreme interactions with the fields of force produced by the rival bodies.  
   
@@ -86,17 +75,14 @@ If we carry the discussion of like pole interactions one step further, a solar p
   
 
 ![](/img/fig37.jpg)
-
 Fig. 37  
   
 
 ![](/img/fig38.jpg)
-
 Fig. 38  
   
 
 ![](/img/fig39.jpg)
-
 Fig. 39  
   
 Solar prominences are spectacular events which tend to puzzle scientists who hold with the theory that the sun is a nuclear reactor and gravity is exclusively an attracting force, but with an understanding of the multi-bodied structure of the sun, it is not difficult to see that such prominences do not require special exceptions to be written into physics to account for them. All they do require is two opposite but roughly equal like pole interactions to occur during the same period of time, and in the same general vicinity.  
@@ -111,17 +97,15 @@ If instrumentation exists and a study is made it will be discovered that such a 
   
 
 ![](/img/fig40.jpg)
-
 Fig. 40  
   
 
 ![](/img/fig41.jpg)
-
 Fig. 41  
   
 These unlike pole-to-pole interactions are very important to fully understand, because this specific action is the foundation for future, more in depth discussions. For now it is enough if the reader can begin to visualize such interactions between bodies so huge as to make our earth seem like an insignficant spec of dust, and to begin to get an idea of the tremendous forces at work within our multi-bodied nucleus. When unlike poles interface they attract, and would prefer to remain in their position of alignment, but the forces exerted by the other equally massive bodies surrounding them (all of which are experiencing various interactions of their own) added to the force exerted by all bodies as they press forward attempting to satisfy their need to orbit and rotate, will not allow unlike pole alignments to remain intact for very long. With even a rudimentary grasp of the true nature of our dynamic nucleus, the sun, it should be easy to see that the great forces required to break an unlike pole-to-pole interaction are readily available, and act quickly to tear aligned bodies away from each other, breaking the magnetic bonds created by these strong but fleeting unlike pole alignments.  
   
-Power Generation  
+### Power Generation  
   
 We can state that, in the purest sense, motion is the force which powers our sun, for without motion the bodies within our nucleus would not build and maintain their individual fields of force, and would cease their orbits and rotation. Without motion, the bodies of the sun would retain no unified gravitational field, and so would simply drift apart. In this sense then, motion is the catalyst which powers the generator called sun. The power available is directly proportional to the velocity of the fall at the rate of velocity squared, and of course the greater the total mass, the greater the potential.  
   
@@ -139,16 +123,16 @@ To now briefly address the fate of energy radiated from the sun in a neutral sta
   
 
 ![](/img/fig42.jpg)
-
 Fig. 42  
   
 Only when thusly polarized do these bubbles of energy create heat and the various lights in the spectrum. This is why space is cold and dark. Remember too that bodies produce energy bubbles which are of a size proportional to the size and velocity of the body from which they've been released. This explains why there are so many frequencies of light - everything depends on the original size of the bubble - smaller bubbles manifest as shorter frequencies, and larger bubbles manifest as longer frequencies.  
   
-Summary  
+### Summary  
   
 In other disclosures we have warned of future fusion reactions in our own atmosphere, and hopefully now the reader can see that these warnings have a firm foundation. Minute particles released through hydrogen fission on earth ultimately result in the formation of the same type of low energy hydrogen described earlier in this paper. Nuclear fusion is a thing of nature in the sense that it's the method employed by nature to attempt to balance low energy atoms. It is a natural reaction and is common and beneficial to the sun (adding new mass to the solar generator), but on earth the results of such reactions will be tragic and highly destabilizing. It is our view that such reactions are already occurring on a small scale on our planet, and that some have even been witnessed. We again warn that this is only the beginning. Fusion reactions will continue to occur with increasing frequency and strength, leaving severe environmental repercussions and heavy loss of life in their wake. These fusion implosions are able to occur anywhere these fission released particles have gathered, so in a very real sense, there's no safe place to hide from this threat. Our only option now is to repair the damage fission has done to our planet, and it is not beyond our power to do so, for now we can produce the same energy as does the sun. This technology, coupled with a correct understanding of nature's laws, are the tools required, and we say again - we've tested a small model, and have produced the repulsive force. This is the reason we are so very certain that our predictions will come to pass - the theory is correct. All that remains to be done is to further develop and perfect the technology, and then apply it to heal the most grievous wounds suffered by our earth.  
   
 As always, the most difficult task in assembling a paper such as this is trying to decide how much to say now, versus what can and should be said later. It is our hope that the decisions we've made in this regard were correct, and that the material we've included will succeed in presenting the broad overview of solar structure and function we sought. If our effort has indeed been successful, we will have left the reader with a good idea of solar structure, and more importantly, of the dynamics and method of power generation employed by our life giving nucleus. If it is now clear why we say the sun is not a nuclear reactor by current definition, then we have come a long way toward reaching our most urgent goal. Once it is understood that not only is fission anti-nature, but is in fact killing our planet, perhaps the people of earth will at last join together and declare, in unison, "ENOUGH IS ENOUGH".
 
 Previous: [2. Unity of All Things](2__unity_of_all_things.md)
+
 Next: [4. The Theory of Falling Bodies II](4__falling_bodies_pt2.md)
