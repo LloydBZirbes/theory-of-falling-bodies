@@ -18,7 +18,7 @@ For the purposes of this paper, the term falling body is defined as any body whi
   
 
 ![](/img/fig14.jpg)
-Fig. 14  
+[Fig. 14](#fig14) {#fig14}
   
 This extracted energy attempts to return to the body it's been extracted from. As shown in figure 14, this cycle produces a force around the body. The result is a gravitational field which will be felt as an attracting force by anything which exists within that field. As the arrows indicate, however, any body or thing which exists outside of this field will be pushed away (or repulsed) from the body. It must be understood - that which is generically referred to as gravity is not always an attracting force.  
   
@@ -26,13 +26,13 @@ The major line of extraction of energy from a falling body is at the leading edg
   
 
 ![](./img/fig15.jpg)
-Fig. 15  
+[Fig. 15](#fig15) {#fig15}
   
 As has been indicated, the extracted energy attempts to return to the body it has been extracted from, however, motion at the rate of velocity squared will not allow this energy to return to the body. This pressure or "pull" is felt by the body, causing it to rotate in the direction of the energy extraction, as shown below.  
   
 
 ![](./img/fig16.jpg)
-Fig. 16  
+[Fig. 16](#fig16) {#fig16}
   
 Size, velocity, composition of the body, and the value of the gravitational field the body falls through are all major factors in the rate of the rotation. For instance, the larger the body, the faster the rotation, and the greater the velocity of the body the faster it will rotate. Also, a falling body composed of steel will rotate faster than an equal sized body of carbon, the reasons for which will be discussed in greater depth in the segment on atomic structure.  
 
@@ -52,31 +52,31 @@ The energy that's been extracted from the leading edge of a falling body present
   
 
 ![](./img/fig18.jpg)
-Fig. 18  
+[Fig. 18](#fig18) {#fig18}
   
 This input energy taken in at the point of rotation (90° from the leading edge) is what is seen as the magnetic poles, indicated below.  
   
 
 ![](./img/fig19.jpg)
-Fig. 19  
+[Fig. 19](#fig19) {#fig19}
   
 The energy flow into the poles, combined with the extraction of energy at the leading edge of the fall, produces an energy flow which results in a magnetic field, as seen in figure 20.  
   
 
 ![](./img/fig20.jpg)
-Fig. 20  
+[Fig. 20](#fig20) {#fig20}
   
 A group of bodies which were in formation before the onset of their fall will produce the same results as a single falling body, with a few exceptions. As shown in test three, when multiple bodies fall as a unit, they group themselves into a spherical formation. Having done this, they will produce the same extracted force as does a single body, shown below.  
   
 
 ![](./img/fig21.jpg)
-Fig. 21  
+[Fig. 21](#fig21) {#fig21}
   
 At the same time, each individual body within this formation develops its own rotation, the rate of which depends upon the body's individual size and the velocity of the mass as a whole.  
   
 
 ![](./img/fig22.jpg)
-Fig. 22  
+[Fig. 22](#fig22) {#fig22}
   
 As seen above, although these bodies combine their energies and rotate as a single body, each individual still obeys the laws of falling bodies as well, and so creates and maintains its own field, which repulses the fields of the other bodies. This repulsive action results in "space" between the bodies. It should also be noted that such a grouping of bodies falling in tight formation will continuously exchange pole positions, i.e., the north pole becomes the south pole and vice versa.  
   
@@ -84,7 +84,7 @@ Stated in simple terms, a falling body is an energy exchanger, or in other words
   
 
 ![](./img/fig23.jpg)
-Fig. 23  
+[Fig. 23](#fig23) {#fig23}
   
 ## [ENERGY TO MASS CONVERSION](#energy-to-mass-conversion) {#energy-to-mass-conversion}
   
@@ -92,14 +92,13 @@ As indicated, a falling body is a transducer and all bodies are falling. Every b
   
 
 ![](./img/fig24.jpg)
-Fig. 24  
+[Fig. 24](#fig24) {#fig24}
   
 As a result of this compression of bubbles, a particle of mass is formed. Mass is therefore no more than solidified energy. The compression of bubbles illustrated in figure 24 results in a particle, shown below.  
   
 
 ![](./img/fig25.jpg)
-
-Fig. 25  
+[Fig. 25](#fig25) {#fig25}
   
 Should a falling body maintain a velocity of between 167,000 and 186,000 miles per second, the conversion from energy to mass would be infinite.  
   
@@ -117,7 +116,7 @@ Minute bubbles of energy, which we call neutral energy, are the building blocks 
   
 
 ![](./img/fig26.jpg)
-Fig. 26  
+[Fig. 26](#fig26) {#fig26}
   
 We therefore state that mass is but solidified energy. Sub-atomic particles vary greatly in size, but they are all created by nature in the same manner, and with the exception of size, weight, and configuration, they are identical. The scientific community speaks of different particles having different charges, but this is a mis-perception, or more precisely, a problem of mis-identification. There are very simple, logical reasons why that which is called an electron has a negative charge, while that which is called a proton has a positive charge, etc., but the explanation is beyond the scope of this paper, and will be discussed in depth in the segment dealing with atomic structure.  
   
@@ -147,13 +146,13 @@ All falling bodies are encased in an elongated shell which may also be seen as a
   
 
 ![](./img/fig27.jpg)
-Fig. 27  
+[Fig. 27](#fig27) {#fig27}
   
 As can be seen, a particle or a body existing within that bubble is also a falling body. As shown in figure 28, falling body A produces field A, which attracts (pulls) body B towards body A.  
   
 
 ![](./img/fig28.jpg)
-Fig. 28  
+[Fig. 28](#fig28) {#fig28}
   
 As this attraction is taking place, the field produced by body B repells the field of body A. The interaction between this attraction and repulsion of fields results in the orbit of body B around body A.  
   
@@ -162,3 +161,8 @@ To summarize then: the field which surrounds a falling body takes the form of an
 ## [ATOMIC STRUCTURE](#atomic-structure) {#atomic-structure}
   
 We will begin this discussion of atomic structure by considering what constitutes an electrical charge. If we observed a balanced atom we would find it had no charge, yet if we removed particles (electrons) from the balanced atom it would result in that atom having a positive charge. If we were instead to add electrons to that balanced atom, it would result in that atom now showing a negative charge. Therefore, an electrical charge (negative or positive) is the result of adding or subtracting particles from an atom. Since all falling bodies follow the same laws of nature (be that body subatomic, atomic, universal or anything in between) it is clear that a single particle cannot carry an electrical charge. When members of the scientific community extract so called particles with the aid of their accelerators and confidently proclaim these "particles"
+
+
+Previous: [The Theory of Falling Bodies I](1__falling_bodies_pt1.md)
+
+Next: [Solar Research](3__solar_research.md)
