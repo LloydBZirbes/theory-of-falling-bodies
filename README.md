@@ -11,6 +11,9 @@ As noted by Lloyd himself: "Reproduction and distribution of this material is vi
 ## 5. [Supplement 1: Beyond the Ionosphere](5__supplement1.md)
 ## 6. [Supplement 2: Nuclear Energy vs. Planet Earth ](6__supplement2.md)
 
-# building the Zirbes motor
+# the Zirbes motor
+![CAD image of the Zirbes motor ](./original/assemblies/flux-o-matic.jpg)
+![animated image of the Zirbes motor ](./original/flux-o-matic-explode.gif)
+
 ### [Blueprints](original/blueprints)
 ### [Prototypes](original/prototypes)
