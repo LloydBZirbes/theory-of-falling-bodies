@@ -15,5 +15,5 @@ As noted by Lloyd himself: "Reproduction and distribution of this material is vi
 ![CAD image of the Zirbes motor ](./original/assemblies/flux-o-matic.jpg)
 ![animated image of the Zirbes motor ](./original/flux-o-matic-explode.gif)
 
-### [Blueprints](original/blueprints)
+### [Blueprints](original/blueprints) [PDF](original/blueprints/pdf-version) / [Tiff](original/blueprints/)
 ### [Prototypes](original/prototypes)
