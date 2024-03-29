@@ -78,7 +78,7 @@ This phenomenon is very difficult to clearly show in an illustration, yet it is 
   
 Take any spherical object that's handy - a ball, orange, grapefruit, etc. - and designate an axis on each end of the sphere. Now, with one of your axes pointing upwards, draw a curved arrow around that axis to denote the direction of gravitational flow. Lift the sphere straight up and place a curved arrow around that axis also – making very sure that when viewed from the side, the two arrows are pointing in the same direction. Next, look at the top of your sphere and note whether the arrow points clockwise or counter-clockwise, then, turn your sphere over and note the arrow points in the opposite direction. Much becomes very simple and logical when one realizes that seeming contradictions in nature do not require one to concoct exceptions to every rule, but merely to understand the rule.  
   
-### ELECTRIC / MAGNETISM
+### [ELECTRIC / MAGNETISM](#electric--magnetism)
   
 We have seen why a falling body begins to rotate/spin, and we've seen that the same factors of greater/lesser potential (due to centrifugal force) produce the mysterious force now spoken of as "attractive" gravity. Now we will move into a discussion of the Siamese twin of gravity, and attempt to explain the creation of a magnetic field. To do this we must first find solid footing to build upon, and so must back up to the time of empirical science and the infinitely valuable and reliable work of Michael Faraday.  
   
