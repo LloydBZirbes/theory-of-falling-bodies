@@ -12,7 +12,6 @@ As noted by Lloyd himself: "Reproduction and distribution of this material is vi
 ## 6. [Supplement 2: Nuclear Energy vs. Planet Earth ](6__supplement2.md)
 
 # the Zirbes motor
-![CAD image of the Zirbes motor ](./original/assemblies/flux-o-matic.jpg)
 ![animated image of the Zirbes motor ](./original/flux-o-matic-explode.gif)
 
 ### [Blueprints](original/blueprints) [PDF](https://github.com/LloydBZirbes/docs/tree/main/original/blueprints/pdf-version) / [Tiff](https://github.com/LloydBZirbes/docs/tree/main/original/blueprints/tiff-format)
