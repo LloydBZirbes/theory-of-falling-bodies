@@ -1,6 +1,3 @@
-Here is the Markdown code for the document with section links added to each figure using subscript text:
-
-```markdown
 **Zirbes Enterprises**
   
 # THEORY OF FALLING BODIES II
