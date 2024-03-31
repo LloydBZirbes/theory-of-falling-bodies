@@ -16,3 +16,6 @@ As noted by Lloyd himself: "Reproduction and distribution of this material is vi
 Lloyd Zirbes released and had distributed, through an agent, a set of blueprints for an "efficient motor". Those blueprints are available below in PDF or in Tiff.
 ### [Blueprints](original/blueprints) [PDF](https://github.com/LloydBZirbes/docs/tree/main/original/blueprints/pdf-version) / [Tiff](https://github.com/LloydBZirbes/docs/tree/main/original/blueprints/tiff-format)
 ### [Prototypes](original/prototypes)
+
+# Contact, Contribution
+Want to contribute? Have information to add? Please make a github account and create an issue or pull request.
