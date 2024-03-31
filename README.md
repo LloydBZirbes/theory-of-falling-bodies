@@ -18,4 +18,4 @@ Lloyd Zirbes released and had distributed, through an agent, a set of blueprints
 ### [Prototypes](original/prototypes)
 
 # Contact, Contribution
-Want to contribute? Have information to add? Please make a github account and create an issue or pull request.
+Want to contribute? Have information to add? Please make a Github account and join [the discussion page](https://github.com/LloydBZirbes/docs/discussions/1)
