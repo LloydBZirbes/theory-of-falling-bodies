@@ -17,5 +17,9 @@ Lloyd Zirbes released and had distributed, through an agent, a set of blueprints
 ### [Blueprints](original/blueprints) [PDF](https://github.com/LloydBZirbes/docs/tree/main/original/blueprints/pdf-version) / [Tiff](https://github.com/LloydBZirbes/docs/tree/main/original/blueprints/tiff-format)
 ### [Prototypes](original/prototypes)
 
+# Archival
+This project is being backed-upto the [Github Archival Program](https://archiveprogram.github.com/faq/)
+
 # Contact, Contribution
 Want to contribute? Have information to add? Please make a Github account and join [the discussion page](https://github.com/LloydBZirbes/docs/discussions/1)
+
