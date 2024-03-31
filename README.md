@@ -13,6 +13,6 @@ As noted by Lloyd himself: "Reproduction and distribution of this material is vi
 
 # the Zirbes motor
 ![animated image of the Zirbes motor ](./original/flux-o-matic-explode.gif)
-
+Lloyd Zirbes released and had distributed, through an agent, a set of blueprints for an "efficient motor". Those blueprints are available below in PDF or in Tiff.
 ### [Blueprints](original/blueprints) [PDF](https://github.com/LloydBZirbes/docs/tree/main/original/blueprints/pdf-version) / [Tiff](https://github.com/LloydBZirbes/docs/tree/main/original/blueprints/tiff-format)
 ### [Prototypes](original/prototypes)
