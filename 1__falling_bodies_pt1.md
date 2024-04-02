@@ -1,3 +1,6 @@
+<head>
+  <link rel="stylesheet" href="path/to/styles.css">
+</head>
 ![](img/fig00.jpg)  
 # FALLING BODIES THEORY  
 ## The Behavior Of Free Bodies In Space
