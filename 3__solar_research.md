@@ -34,6 +34,8 @@ The area between the major bodies (interior near the gravitational center) and t
 ![](/img/fig33.jpg)
 [Fig. 33][fig33]
 
+<div id="fig33"></div>
+
 [fig33]: #fig33
 
 We've explained that the major bodies are in close proximity to the center of gravity and complete an orbit of this center approximately every forty-eight hours, and that the minor bodies at a greater distance complete the same orbit of the center every thirty-two days. All of the intermediate bodies residing between these two extremes also orbit the same center, but at varying rates determined by their mass and subsequent position within the body of the Sun. The larger of these intermediate bodies will be found closer to the major bodies nearer the center, and their rotation rate approaches that of the major bodies. Also, being relatively close to the center of gravity of the Sun allows them to complete an orbit of that center in a relatively short period of time. The smaller intermediate bodies will have a slower rotation rate, and because they reside closer to the surface of the Sun and farther from the center of gravity, the time it takes for one of these bodies to complete an orbit of the center is more than for larger bodies. This concept of varying orbital rates is roughly illustrated in the cross section bellow.  
