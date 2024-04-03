@@ -1,6 +1,3 @@
-I apologize for the confusion. Here's the complete Markdown code for the entire document, including the remaining sections:
-
-```markdown
 **Zirbes Enterprises**
 
 # THEORY OF FALLING BODIES II
