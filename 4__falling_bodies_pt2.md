@@ -1,157 +1,222 @@
+I apologize for the confusion. Here's the complete Markdown code for the entire document, including the remaining sections:
+
+```markdown
 **Zirbes Enterprises**
-  
+
 # THEORY OF FALLING BODIES II
-  
+
 As a body begins to fall a centrifugal force is applied to the body and is "felt" in the opposite direction of the fall (figure 43).  
-  
 
 ![](/img/fig43.jpg)
-<sub>[Fig. 43](#fig43)</sub> {#fig43}
-  
+[Fig. 43][fig43]
+
+<div id="fig43"></div>
+
+[fig43]: #fig43
+
 This centrifugal force results in mass being "compressed" at the upper portion of the body, i.e., in the opposite direction of the fall (figure 44).  
-  
 
 ![](/img/fig44.jpg)
-<sub>[Fig. 44](#fig44)</sub> {#fig44}
-  
+[Fig. 44][fig44]
+
+<div id="fig44"></div>
+
+[fig44]: #fig44
+
 This area of compressed mass results in an area of greater density. To obtain greater density of any mass, the "space" within the atoms which comprise that mass must decrease, and therefore, the atoms within the compressed area of the body begin to "shed" that space (figure 45).  
-  
 
 ![](/img/fig45.jpg)
-<sub>[Fig. 45](#fig45)</sub> {#fig45}
-  
+[Fig. 45][fig45]
+
+<div id="fig45"></div>
+
+[fig45]: #fig45
+
 The compressed area, due to centrifugal force, results in an area of densified mass. This increased density results from the expulsion/extraction of space (i.e., gravity) contained within the atoms of that mass prior to the onset of the fall. The extracted energy from the upper portion of the body may be seen as the male factor in that its area has a higher concentration of gravity, and therefore a greater gravitational value than surrounding areas. The female area of the body, due to motion of the body, is an area of lesser concentration of mass, causing this mass to seek to expand. The mass in the female area of the body requires "space" to accomplish an expansion of the atoms which comprise the mass (figure 46).  
-  
 
 ![](/img/fig46.jpg)
-<sub>[Fig. 46](#fig46)</sub> {#fig46}
-  
+[Fig. 46][fig46]
+
+<div id="fig46"></div>
+
+[fig46]: #fig46
+
 The male area of the body has a higher than normal density of mass and is surrounded by a greater value of gravity than is the female area. Nature will always seek balance, and in the case of a falling body, this primary directive of nature is manifested by the female area "feeling" the greater gravitational value of the male area and moving toward it. This action results in the rotation or "spin" of the body.  
-  
+
 During these early stages of a body's fall, its velocity is continually increasing, and the greater the velocity of the falling body the greater the rotation rate or spin value of that body. Due to this rotation/spin, the previously discussed centrifugal force is now being distributed around the entire body at the leading edge of the fall, or equator of the body. Centrifugal force causes mass to densify along this equator and to therefore expell space (i.e., gravity). As the value of the rotation/spin increases in value, neutral energy (better known as gravity) is expelled or extracted along the entire equator of the body (i.e., the leading edge of the fall) in ever increasing amounts (figure 47).  
-  
 
 ![](/img/fig47.jpg)
-<sub>[Fig. 47](#fig47)</sub> {#fig47}
-  
+[Fig. 47][fig47]
+
+<div id="fig47"></div>
+
+[fig47]: #fig47
+
 We will now turn the body ninety degrees and observe a cut-away view (figure 48).  
-  
 
 ![](/img/fig48.jpg)
-<sub>[Fig. 48](#fig48)</sub> {#fig48}
-  
+[Fig. 48][fig48]
+
+<div id="fig48"></div>
+
+[fig48]: #fig48
+
 Upon exiting the body the extracted energy moves or "flows" in a direction that lies parallel to the body. This results in the "bubbles of nothing" called gravity orbiting the falling body, and due to the continued motion of the body, each orbit completed by a given "bubble" is slightly larger than its previous orbit (figure 49).  
-  
 
 ![](/img/fig49.jpg)
-<sub>[Fig. 49](#fig49)</sub> {#fig49}
-  
+[Fig. 49][fig49]
+
+<div id="fig49"></div>
+
+[fig49]: #fig49
+
 As the "squeezed out" space of the compressed or densified mass leaves the falling body it instantly obtains a greater spin velocity, which in turn tends to further the rotation/spin value of the falling body itself. The people of the Project Stardust team refer to this extracted or repelled energy as gravity A. During the times of Newton this flow of gravity was assumed to be a force which "pulled" towards the center of the body - an understandable misconception in those early days. Now, however, we know that gravity is a push, not a pull, and in fact pushs beings or things existing within the area of this flow toward the surface of the body as it cycles around that body.  
-  
+
 The rotating or spinning body must have an axis of rotation. The center of the axis of rotation obtains a zero, or near zero value of motion, and therefore, little or no centrifugal force is felt at the axis. With very little centrifugal force there is no compression of mass along this axis. At the same time, the leading edge of the body (90 degrees from the axis) is experiencing great centrifugal force, and mass along this equator is compressed. At the center of this equatorial plane then, lies a point of zero or near zero motion, which again will contain no compressed mass. It is in these areas of low or zero motion where the mass has "room" for expansion, and the atoms within this mass will seek to expand. To accomplish expansion, space (gravity) is required, and where there is an area which lacks sufficient quantities of gravity, there can be said to exist a gravitational void or vacuum. Quite clearly, it is at the point where the axis of rotation and the equatorial plane intersect which will present the greatest gravitational vacuum (figure 50).  
-  
 
 ![](/img/fig50.jpg)
-<sub>[Fig. 50](#fig50)</sub> {#fig50}
-  
+[Fig. 50][fig50]
+
+<div id="fig50"></div>
+
+[fig50]: #fig50
+
 This situation creates a difference in potential between the dense gravity at the equator or the falling body and the lack of, or the "need" for gravity along the axis of rotation. We can therefore view the axis area as a positive, or female area, and the leading edge or equator of the body as negative, or male in respect to the axis.  
-  
+
 This difference in potential between the male and female areas causes the outwardly spiraling neutral energy shown in figure 49 to also move toward an axis area. The extracted energy (gravity) will flow from one half of the sphere (body) towards the nearest axis area, while energy extracted from the other half of the sphere will move towards the opposite axis area (figure 51).  
-  
 
 ![](/img/fig51.jpg)
-<sub>[Fig. 51](#fig51)</sub> {#fig51}
-  
+[Fig. 51][fig51]
+
+<div id="fig51"></div>
+
+[fig51]: #fig51
+
 We will now turn figure 51 ninety degrees and observe the axis of rotation as illustrated in figure 49. In figure 52 we will attempt to show the return of extracted energy to the falling body. Figure 49 illustrates the outward flow of gravity, and in that figure the outermost line indicates the farthest reaches of the gravitational flow. This "edge" of the gravitational field is designated by an arrow in figure 49, and in figure 52 we will pick up where that arrow left off, and attempt to show the gravitational flow back into the body (figure 52).  
-  
 
 ![](/img/fig52.jpg)
-<sub>[Fig. 52](#fig52)</sub> {#fig52}
-  
+[Fig. 52][fig52]
+
+<div id="fig52"></div>
+
+[fig52]: #fig52
+
 We now take note of a very interesting phenomenon of falling bodies. The gravitational "flow" just described is moving in the same direction in both hemispheres of the falling body, and also moves in the same direction as it re-enters the body. However, when one observes the falling body at an axis area, the ingoing vortex is perceived to be moving in a given direction (i.e., clockwise or counter-clockwise), while an observe stationed at the other axis would perceive the ingoing vortex to be moving in the opposite direction. This perception is misleading however, for in reality **both** vortexes are moving in the same direction (figure 53).  
-  
 
 ![](/img/fig53.jpg)
-<sub>[Fig. 53](#fig53)</sub> {#fig53}
-  
+[Fig. 53][fig53]
+
+<div id="fig53"></div>
+
+[fig53]: #fig53
+
 This phenomenon is very difficult to clearly show in an illustration, yet it is absolutely vital to an understanding of atomic particle assimilation/atomic structure, so if this concept is yet unclear, we suggest the reader take a moment and test it out first hand through the following simple means.  
-  
+
 Take any spherical object that's handy - a ball, orange, grapefruit, etc. - and designate an axis on each end of the sphere. Now, with one of your axes pointing upwards, draw a curved arrow around that axis to denote the direction of gravitational flow. Lift the sphere straight up and place a curved arrow around that axis also – making very sure that when viewed from the side, the two arrows are pointing in the same direction. Next, look at the top of your sphere and note whether the arrow points clockwise or counter-clockwise, then, turn your sphere over and note the arrow points in the opposite direction. Much becomes very simple and logical when one realizes that seeming contradictions in nature do not require one to concoct exceptions to every rule, but merely to understand the rule.  
-  
+
 ### [ELECTRIC / MAGNETISM](#electric--magnetism)
-  
+
 We have seen why a falling body begins to rotate/spin, and we've seen that the same factors of greater/lesser potential (due to centrifugal force) produce the mysterious force now spoken of as "attractive" gravity. Now we will move into a discussion of the Siamese twin of gravity, and attempt to explain the creation of a magnetic field. To do this we must first find solid footing to build upon, and so must back up to the time of empirical science and the infinitely valuable and reliable work of Michael Faraday.  
-  
+
 Michael Faraday discovered through hands-on experimentation that a spinning disc resulted in a flow of electric (mass) from the circumference of the spinning disc to the axis of the disc (figure 54).  
-  
 
 ![](/img/fig54.jpg)
-<sub>[Fig. 54](#fig54)</sub> {#fig54}
-  
+[Fig. 54][fig54]
+
+<div id="fig54"></div>
+
+[fig54]: #fig54
+
 Please note that existing drawings of Faraday's "unipole" generator show opposite brush polarities. Until very recently it was believed that electric flowed from positive to negative. Faraday found that an increase of R.P.M. resulted in an increased electrical flow. He also found that a consistant R.P.M. with an increased circumference of the disc would result in an increase of electrical flow. We can therefore deduce that the sum total factor is the velocity of the circumference.  
-  
+
 We will now look at the element consistancy of a disc at rest, i.e., not turning (figure 55).  
-  
 
 ![](/img/fig55.jpg)
-<sub>[Fig. 55](#fig55)</sub> {#fig55}
-  
+[Fig. 55][fig55]
+
+<div id="fig55"></div>
+
+[fig55]: #fig55
+
 As the above disc (which is not turning) is carefully checked with instruments, it is found that the disc is absolutely isotropic. This simply means that the atoms in the disc are consistent and in balance, and that each atom within the elements of the disc are using equal amounts of space. Now, using the very same disc but turning it at a rate of 2,000 R.P.M. we observe a complete change in the consistency. The axis and the area in the immediate vicinity of the axis become severely isotopic. In turn, the circumfrence of the spinning disc becomes severely radioisotopic (figure 56).  
-  
 
 ![](/img/fig56.jpg)
-<sub>[Fig. 56](#fig56)</sub> {#fig56}
-  
+[Fig. 56][fig56]
+
+<div id="fig56"></div>
+
+[fig56]: #fig56
+
 We have seen that a falling body produces an area of compressed mass which in turn causes the body to spin/rotate. We've seen that to compress mass the space the atom normally possesses is reduced, and that this extracted energy (gravity/space) then detects the lesser gravitational potential at the axis - at which time it moves toward this void and re-enters the body. It has likewise been shown that this extracted energy, in its travels around the body, "pushes" all things existing within the gravitational field toward the surface of the body. This is gravity A - the "attractive" portion of gravity.  
-  
+
 With all of this reasonably clear we may now continue on and examine the inertial force which allows the Faraday generator to function, and in so doing we can readily show why a falling body produces a magnetic field.  
-  
+
 That which generates the "power" to produce a flow of electric (i.e., mass) is motion. Motion is the result of gravity, and without gravity there can be no motion. The value of electrical flow is directly proportional to the velocity of the motion. Once again we turn to the Faraday generator (figure 57).  
-  
 
 ![](/img/fig57.jpg)
-<sub>[Fig. 57](#fig57)</sub> {#fig57}
-  
+[Fig. 57][fig57]
+
+<div id="fig57"></div>
+
+[fig57]: #fig57
+
 Due to centrifugal force, mass is forced from the axis area toward the surface of the spinning/rotating disc, and the movement of mass from the axis area to the circumference (surface) is very rapid. This rapid movement of the mass results in the moving mass obtaining an inertia force. The inertia force experienced by the atoms and particles is so great that this mass is thrown out, or leaves the rotating disc. This forced out mass results in the area around the disc (or body) being filled with high velocity particles and atoms of mass. This area is then said to be filled with electric.  
-  
+
 The axis area of the rotating/spinning disc or body now presents a condition where mass is "missing". The axis area of "missing mass" is now seen as a positively charged area (or female factor). The escaped mass (i.e., electrical field) around the spinning/rotating disc or body becomes the male factor and can be seen as or measured by instruments as a negative charge. At this point then, the disc is in an unbalanced state, with an abundance of mass around the circumference, and a severe absence of mass along the axis. The mass ejected due to inertia forces will continue to move out away from the disc until it detects the difference in potential between it and the axis, at which time it will move toward the axis and re-enter the disc in order to re-establish balance between the male and female areas.  
-  
+
 It is commonly known that electric will follow the path of least resistance. Should a brush be placed on the axis and on the circumference of a spinning disc with a conductor between the brushes, a current (or electric) flow will exist in the conductor. In the case of the Faraday generator, should brushes and conductor not be used, an electrical flow is detected from the circumference of the rotating body to the axis areas through the air (figure 58).  
-  
 
 ![](/img/fig58.jpg)
-<sub>[Fig. 58](#fig58)</sub> {#fig58}
-  
+[Fig. 58][fig58]
+
+<div id="fig58"></div>
+
+[fig58]: #fig58
+
 This flow of electricity has been proven through careful testing by the Project Stardust team and by researchers globally. Now, by applying what has been said to a falling body, the "secret" of the repulsive force can be seen, and a primary consideration in this discussion is direction of motion – and the direction of an electrical flow can be predetermined.  
-  
+
 If the Faraday generator were placed in a concise east-west direction before being rotated, and if the generator were to be constructed of a material with a low permeability value, the flow of electric would be as shown previously in figure 58. However, should the same generator be placed in a precise magnetic north-south direction, the electrical flow will be as shown in figure 59.  
-  
 
 ![](/img/fig59.jpg)
-<sub>[Fig. 59](#fig59)</sub> {#fig59}
-  
+[Fig. 59][fig59]
+
+<div id="fig59"></div>
+
+[fig59]: #fig59
+
 This flow of electric to the north (+) magnetic pole of this planet is due to a very common fact - electric (i.e., mass) follows the path of least resistance. So that there is no confusion as to why this is the path of least resistance we will pause momentarily and speak of terrestrial electricity. That which is called atmospheric electricity flows from the south magnetic pole of the planet earth to the north magnetic pole. Although this south (-) to north (+) flow of atmospheric electricity is grossly distored (sometimes so much so that it flows from west to east), the main flow is nevertheless from pole to pole. To follow the path of least resistance the electric (mass) produced by the Faraday generator must flow with the electric flow of planet earth. To flow against the earth's atmospheric electric flow would create resistance to the flow of the generator, and so it will not take this path. The law applies - electric follows the path of least resistance.  
-  
+
 Having clarified that point we may now apply what we know of the Faraday generator to a falling body in general, and so move a bit closer to understanding the elusive repulsive force.  
-  
+
 To quickly review: a falling body rotates due to centrifugal force, creating an area of compressed mass. When a falling body rotates/spins, centrifugal force is applied at the equator, or leaing edge of the fall. This in turn causes the atoms and particles within the body to be affected by the law of inertia and to be ejected from the falling body (see figure 60).  
-  
 
 ![](/img/fig60.jpg)
-<sub>[Fig. 60](#fig60)</sub> {#fig60}
-  
+[Fig. 60][fig60]
+
+<div id="fig60"></div>
+
+[fig60]: #fig60
+
 It is now time to show some of the finer details of what was happening to those test balls by applying what we know of gravity and magnetism. Figure 61 illustrates the rotation and electrical flow of one of our test bodies (see paper titled Tests and Results, [test 6, figure 9](https://lloydbzirbes.github.io/docs/1__falling_bodies_pt1.html#test-six)) in respect to the planet earth.  
   
 
 ![](/img/fig61.jpg)
-<sub>[Fig. 61](#fig61)</sub> {#fig61}
+[Fig. 61][fig61]
+
+<div id="fig61"></div>
+
+[fig61]: #fig61
 
 By studying figure 61 it can be seen that, as with the Faraday generator, the electric flow through our test body follows the path of least resistance, and so aligns with the pre-existing electric flow of planet earth. Electric is simply mass in motion, and mass has magnetic properties. That which determines pole values is the direction of electric flow. The electric flow of our test body is moving in the same direction as the electric flow of planet earth, and so the mass which comprises the electric flows of the test body and planet earth are polarised in the same direction. A common and often demonstrated law of physics states that unlike magnetic poles attract and like mangetic poles repell. Pole values are established based on the direction of electric flow, and so there will be a repulsion between two flows of electric which are moving in the same direction. This can be seen by reproducing the classic test where two inductors are placed side by side and a flow of electric is passed through the wires in the same direction. The inductors (wires) will be pushed away from each other. By studying figure 61 it should be clear that the same law is in effect, and that the initial but minor repulsive force felt by a falling body is due to magnetic repulsion, simply because like poles (directions) repell.  
 
 Our test body had only a short distance (2,000 feet) in which to fall. Had it been able to continue its fall it would have continued to increase its velocity until balanced gravitational and electric (mass) cycles were established. A falling body which is allowed to continue its fall will continue to expell mass at increasing rates until reaching a balanced threshold. Not all of the mass thus expelled travels the same route back into the axis area of the body, but rather tends to "spread out" as the body continues to accelerate. As with the Faraday generator, this ejected mass will continue to spread out until it detects the lesesr potential of the axis, at which time it will then move toward and re-enter the body at the axis area (figure 62).  
 
 ![](/img/fig62.jpg)
-<sub>[Fig. 62](#fig62)</sub> {#fig62}
+[Fig. 62][fig62]
+
+<div id="fig62"></div>
+
+[fig62]: #fig62
 
 As these different flows of mass establish themselves, they quite clearly are moving in the same direction, and so are of like polarities. This means that there will be a repulsion between these different flows of mass, resulting in these flows establishing shells or "lines" of moving mass which are separate from one another.  
 
