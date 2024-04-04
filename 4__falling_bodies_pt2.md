@@ -254,11 +254,14 @@ January 18, 1988
 
 Reproduction and distribution of this material is vigorously requested and encouraged.
 
-[^1]: Michael Faraday: born 1791, died 1867, aged 75. Son of a blacksmith. Michael Faraday, one of the world's greatest experimental physicist, is known as the father of the electric motor, electric generator, electric transformer, and electrolysis. He wrote the "Law of Induction" and is known for the "Faraday Effect". Famously "failed 1000 times" each of which he wrote and kept notes on.
 
-[^2]: "apocryphal" generally refers to stories or statements that are of doubtful origin or authenticity, often because they are not mentioned in other reliable sources. In this case, the author wants to convey that their tests and the resulting conclusions <i>are</i> reliable and not based on unsubstantiated or questionable information.
 
-[^3]: vortex: a circular or swirling motion or flow. the term "vortex" is used to describe the swirling or circular motion of the gravitational flow as it moves around and re-enters the falling body.
+[^1]: vortex: a circular or swirling motion or flow. the term "vortex" is used to describe the swirling or circular motion of the gravitational flow as it moves around and re-enters the falling body.
+
+[^2]: Michael Faraday: born 1791, died 1867, aged 75. Son of a blacksmith. Michael Faraday, one of the world's greatest experimental physicist, is known as the father of the electric motor, electric generator, electric transformer, and electrolysis. He wrote the "Law of Induction" and is known for the "Faraday Effect". Famously "failed 1000 times" each of which he wrote and kept notes on.
+
+[^3]: "apocryphal" generally refers to stories or statements that are of doubtful origin or authenticity, often because they are not mentioned in other reliable sources. In this case, the author wants to convey that their tests and the resulting conclusions <i>are</i> reliable and not based on unsubstantiated or questionable information.
+
 
 
 Previous: [3. Solar Research](3__solar_research.md)
