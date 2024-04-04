@@ -159,7 +159,7 @@ As always, the most difficult task in assembling a paper such as this is trying 
 
 [^1]: Helioseismology: the study of the interior of the Sun from observations of the vibrations of its surface. Originates from 'Helio-', a Greek word for 'sun', and 'Seismology', from the Greek 'seismos' meaning 'earthquake', combined with '-ology', meaning 'study of'. [from Berkeley.edu "What is Helioseismology?"](https://www.stat.berkeley.edu/~stark/Seminars/Aaas/helio.htm#:~:text=developed%20and%20applied.-,What%20is%20Helioseismology%3F,the%20surface%20from%20the%20core.)
 
-    ![](./img/helio_persp_fig2.gif)
+    ![](./img/helio_examples.jpg)
 
 Previous: [2. Unity of All Things](2__unity_of_all_things.md)
 
