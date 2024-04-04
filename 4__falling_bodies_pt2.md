@@ -113,7 +113,7 @@ Take any spherical object that's handy - a ball, orange, grapefruit, etc. - and 
 
 ### [ELECTRIC / MAGNETISM](#electric--magnetism)
 
-We have seen why a falling body begins to rotate/spin, and we've seen that the same factors of greater/lesser potential (due to centrifugal force) produce the mysterious force now spoken of as "attractive" gravity. Now we will move into a discussion of the Siamese twin of gravity, and attempt to explain the creation of a magnetic field. To do this we must first find solid footing to build upon, and so must back up to the time of empirical science and the infinitely valuable and reliable work of Michael Faraday.  
+We have seen why a falling body begins to rotate/spin, and we've seen that the same factors of greater/lesser potential (due to centrifugal force) produce the mysterious force now spoken of as "attractive" gravity. Now we will move into a discussion of the Siamese twin of gravity, and attempt to explain the creation of a magnetic field. To do this we must first find solid footing to build upon, and so must back up to the time of <u>empirical</u> science and the infinitely valuable and reliable work of Michael Faraday.  
 
 Michael Faraday discovered through hands-on experimentation that a spinning disc resulted in a flow of electric (mass) from the circumference of the spinning disc to the axis of the disc (figure 54).  
 
