@@ -20,7 +20,7 @@ Lloyd Zirbes released and had distributed, through an agent, a set of blueprints
 ### [Prototypes](original/prototypes)
 
 # Archival
-This project is being backed-upto the [Github Archival Program](https://archiveprogram.github.com/faq/)
+This project is being backed-up to the [Github Archival Program](https://archiveprogram.github.com/faq/)
 
 # Contact, Contribution
 Want to contribute? Have information to add? Please make a Github account and join [the discussion page](https://github.com/LloydBZirbes/docs/discussions/1)
