@@ -1,10 +1,3 @@
-<!-- PROJECT LOGO -->
-<br />
-<div align="center">
-  <a href="https://lloydbzirbes.github.io/theory-of-falling-bodies/">
-    <img src="img/logo.png" alt="Logo" width="80" height="80">
-  </a>
-
 # Lloyd B. Zirbes: Project Stardust  
 ## The Behavior Of Free Bodies In Space
 (a work in progress, as more materials are found they will be added here for posterity. If you have any materials not already included, please join [the discussion page](https://github.com/LloydBZirbes/docs/discussions/1) )
