@@ -45,7 +45,7 @@ Size, velocity, composition of the body, and the value of the gravitational fiel
 As previously explained, the energy extracted from a falling body at all times attempts to return to the body, which in turn produces a gravitational field. Therefore, any and all bodies which come into contact with the force of the falling body in question will be and are attracted to the body as seen below.
 
 ![same as fig 15 & 16: a circle with ovals extending outwards. An arrow inside the smallest circle indicates it is rotating counterclockwise.
-Three additional concentric circles are drawn further away from the original circle. They are marked: “Force field”. Additionally there are 5 black dots spread around the force field concentric circles, each with a short arrow pointing toward the centre of the circle.](./img/fig17.jpg)
+Three additional concentric circles are drawn further away from the original circle. They are marked: “Force field”. Additionally there are 5 black dots spread around the force field concentric circles, each with a short arrow pointing toward the centre of the circle.](./img/fig17.png)
 [Fig. 17](#fig17) {#fig17}
 
 Keep in mind that these smaller bodies are also falling bodies and so have produced their own fields of extracted energy. This means that even as these bodies are attracted to the larger body in whose field they exist, they are simultaneously repulsed from that body, due to the repulsive action of their own field. This interaction between the attractive and repulsive actions of the fields of both bodies will reach an equilibrium point which is commonly known as an orbit.
