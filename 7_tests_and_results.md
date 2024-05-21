@@ -16,7 +16,7 @@ Two iron balls of equal weight and size were placed six feet apart, and then wer
   
 
 ![Diagram: at the top of the illustration two circles are drawn indicating two iron balls. They are 6 feet apart. An arrow is pointing downward from each ball. The bottom line is called the “plane of impact”. It is 2000 feet down from the release point. At the 1500 ft. mark the two arrows split outwards indicating the balls changed course. At 2000 feet the balls landed 50 feet apart.
-](/img/fig01.jpg)
+](/img/fig01.png)
 <sub>Fig. 1  </sub>
 
   
@@ -34,7 +34,7 @@ Four balls of equal weight and size, but composed of different elements were dro
   
 
 ![illustration showing an X and Y axis. X is marked “plane of impact”. Y-axis has labels at 2 ft, 4 ft, 6 ft and 8ft. THere are four circles representing the balls made of different materials: Carbon is at the 0 ft (plane of impact). Aluminium is at 2ft; Brass is drawn at the 4 ft level, iron is at 6 ft.
-](/img/fig02.jpg)
+](/img/fig02.png)
 <sub>Fig. 2  </sub>
   
 **RESULT**
