@@ -18,17 +18,23 @@ document.addEventListener('DOMContentLoaded', function() {
         this.style.display = 'none';
     });
 
-    // Tooltip functionality
+    // Updated Tooltip functionality
     const tooltips = document.querySelectorAll('.tooltip');
 
     tooltips.forEach(tooltip => {
         const tooltipItem = tooltip.querySelector('.tooltip-item');
         const tooltipContent = tooltip.querySelector('.tooltip-content');
 
-        tooltipItem.addEventListener('touchstart', function(e) {
+        tooltipItem.addEventListener('click', function(e) {
             e.preventDefault();
-            tooltipContent.style.opacity = tooltipContent.style.opacity === '1' ? '0' : '1';
-            tooltipContent.style.pointerEvents = tooltipContent.style.opacity === '1' ? 'auto' : 'none';
+            tooltipContent.classList.toggle('active');
+        });
+
+        // Close tooltip when clicking outside
+        document.addEventListener('click', (e) => {
+            if (!tooltip.contains(e.target)) {
+                tooltipContent.classList.remove('active');
+            }
         });
     });
 

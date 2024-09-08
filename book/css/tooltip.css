@@ -11,6 +11,7 @@
     font-weight: 700;
     padding: 0 10px;
     border-bottom: 1px dotted #000;
+    font-size: 1.2em; /* Increased font size */
 }
 
 .tooltip-content {
@@ -21,7 +22,7 @@
     margin: 0 0 20px -150px;
     bottom: 100%;
     text-align: left;
-    font-size: 0.765em;
+    font-size: 1em; /* Increased font size */
     line-height: 1.4;
     box-shadow: -5px -5px 15px rgba(48,54,61,0.2);
     background: #2a3035;
@@ -32,7 +33,7 @@
     transition: opacity 0.3s, transform 0.3s;
 }
 
-.tooltip:hover .tooltip-content {
+.tooltip-content.active {
     pointer-events: auto;
     opacity: 1;
     transform: translate3d(0,0,0);
@@ -54,7 +55,7 @@
 }
 
 .tooltip-text {
-    font-size: 0.68em;
+    font-size: 0.9em; /* Increased font size */
     line-height: 1.35;
     display: block;
     padding: 1.31em 1.21em 1.21em 1.21em;
