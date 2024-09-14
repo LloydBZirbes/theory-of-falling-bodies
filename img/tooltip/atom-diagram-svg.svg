@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 150 150">
+  <!-- Electron orbits -->
+  <ellipse cx="75" cy="75" rx="65" ry="60" fill="none" stroke="#ccc" stroke-width="1" />
+  <ellipse cx="75" cy="75" rx="55" ry="50" fill="none" stroke="#ccc" stroke-width="1" />
+  
+  <!-- Nucleus -->
+  <circle cx="75" cy="75" r="15" fill="#f9d71c" />
+  
+  <!-- Protons -->
+  <circle cx="70" cy="72" r="5" fill="#ff5555" />
+  <circle cx="80" cy="78" r="5" fill="#ff5555" />
+  
+  <!-- Neutrons -->
+  <circle cx="75" cy="70" r="5" fill="#5555ff" />
+  <circle cx="75" cy="80" r="5" fill="#5555ff" />
+  
+  <!-- Electrons -->
+  <circle cx="25" cy="75" r="3" fill="#55ff55" />
+  <circle cx="125" cy="75" r="3" fill="#55ff55" />
+  <circle cx="75" cy="45" r="3" fill="#55ff55" />
+  
+  <!-- Labels -->
+  <text x="25" y="70" text-anchor="middle" font-size="8">Electron</text>
+  <text x="75" y="95" text-anchor="middle" font-size="8">Nucleus</text>
+  <text x="65" y="65" text-anchor="middle" font-size="8" fill="#ff5555">Proton</text>
+  <text x="85" y="85" text-anchor="middle" font-size="8" fill="#5555ff">Neutron</text>
+</svg>
