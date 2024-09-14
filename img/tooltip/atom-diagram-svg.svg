@@ -22,7 +22,7 @@
   <circle cx="75" cy="15" r="3" fill="#55ff55" />
   
   <!-- Labels -->
-  <text x="10" y="70" text-anchor="middle" font-size="8" font-weight="bold">Electron</text>
+  <text x="75" y="28" text-anchor="middle" font-size="8" font-weight="bold">Electron</text>
   <text x="75" y="95" text-anchor="middle" font-size="6">Nucleus</text>
   <text x="65" y="65" text-anchor="middle" font-size="6" fill="#ff5555">Proton</text>
   <text x="95" y="85" text-anchor="middle" font-size="6" fill="#5555ff">Neutron</text>
