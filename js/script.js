@@ -1,20 +1,25 @@
 document.addEventListener('DOMContentLoaded', function() {
+    // Create overlay and enlarged image elements
+    const overlay = document.createElement('div');
+    overlay.className = 'overlay';
+    const enlargedImage = document.createElement('img');
+    enlargedImage.id = 'enlarged-image';
+    enlargedImage.alt = 'Enlarged image';
+    overlay.appendChild(enlargedImage);
+    document.body.appendChild(overlay);
+
     // Image enlargement
-    const images = document.querySelectorAll('img:not(.tooltip-content img)');
-    const overlay = document.querySelector('.overlay');
+    const images = document.querySelectorAll('img');
 
     images.forEach(img => {
-        img.addEventListener('click', function() {
-            this.classList.toggle('enlarged');
-            overlay.style.display = this.classList.contains('enlarged') ? 'block' : 'none';
+        img.addEventListener('click', function(e) {
+            e.stopPropagation();
+            enlargedImage.src = this.src;
+            overlay.style.display = 'flex';
         });
     });
 
     overlay.addEventListener('click', function() {
-        const enlargedImg = document.querySelector('.enlarged');
-        if (enlargedImg) {
-            enlargedImg.classList.remove('enlarged');
-        }
         this.style.display = 'none';
     });
 
