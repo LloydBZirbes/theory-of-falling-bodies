@@ -55,11 +55,20 @@
 }
 
 .tooltip-text {
-    font-size: 0.9em; /* Increased font size */
+    font-size: 0.9em;
     line-height: 1.35;
     display: block;
     padding: 1.31em 1.21em 1.21em 1.21em;
     color: #fff;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+    hyphens: auto;
+}
+
+.tooltip-text .long-number {
+    font-family: monospace;
+    white-space: pre-wrap;
+    word-break: break-all;
 }
 
 @media (max-width: 600px) {
