@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 200">
+  <!-- Sun -->
+  <circle cx="50" cy="100" r="30" fill="yellow" />
+  
+  <!-- Orbits -->
+  <circle cx="50" cy="100" r="60" fill="none" stroke="#ccc" stroke-width="1" />
+  <circle cx="50" cy="100" r="90" fill="none" stroke="#ccc" stroke-width="1" />
+  <circle cx="50" cy="100" r="120" fill="none" stroke="#ccc" stroke-width="1" />
+  <circle cx="50" cy="100" r="150" fill="none" stroke="#ccc" stroke-width="1" />
+  
+  <!-- Planets -->
+  <circle cx="110" cy="100" r="5" fill="orange" /> <!-- Mercury -->
+  <circle cx="140" cy="100" r="8" fill="#a52a2a" /> <!-- Venus -->
+  <circle cx="170" cy="100" r="9" fill="#4169e1" /> <!-- Earth -->
+  <circle cx="200" cy="100" r="7" fill="#b22222" /> <!-- Mars -->
+  
+  <!-- Labels -->
+  <text x="50" y="145" text-anchor="middle" fill="black" font-size="12">Sun</text>
+  <text x="110" y="85" text-anchor="middle" fill="black" font-size="12">Mercury</text>
+  <text x="140" y="120" text-anchor="middle" fill="black" font-size="12">Venus</text>
+  <text x="170" y="85" text-anchor="middle" fill="black" font-size="12">Earth</text>
+  <text x="200" y="120" text-anchor="middle" fill="black" font-size="12">Mars</text>
+  
+  <!-- Mercury Pointer (pointing downward) -->
+  <line x1="110" y1="50" x2="110" y2="75" stroke="black" stroke-width="1" />
+  <polygon points="105,75 110,85 115,75" fill="black" />
+</svg>
