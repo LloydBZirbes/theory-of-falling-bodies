@@ -1,10 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 250">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 290">
   <style>
-    text { font-family: Arial, sans-serif; }
+    text { font-family: Arial, sans-serif; fill: #333; }
     .header { font-weight: bold; font-size: 14px; }
     .title { font-weight: bold; font-size: 24px; }
   </style>
   
+  <!-- Background -->
+  <rect width="100%" height="100%" fill="#f0f0f0"/>
+
   <!-- Title -->
   <text x="250" y="40" class="title">Examples of Hypercharge States</text>
 
@@ -19,32 +22,36 @@
   <text x="750" y="80" class="header">+3</text>
 
   <!-- Table lines -->
-  <line x1="20" y1="90" x2="780" y2="90" stroke="black" />
-  <line x1="20" y1="90" x2="20" y2="210" stroke="black" />
-  <line x1="780" y1="90" x2="780" y2="210" stroke="black" />
-  <line x1="20" y1="210" x2="780" y2="210" stroke="black" />
+  <line x1="20" y1="90" x2="780" y2="90" stroke="#333" />
+  <line x1="20" y1="90" x2="20" y2="250" stroke="#333" />
+  <line x1="780" y1="90" x2="780" y2="250" stroke="#333" />
+  <line x1="20" y1="250" x2="780" y2="250" stroke="#333" />
 
   <!-- Vertical lines -->
-  <line x1="120" y1="90" x2="120" y2="210" stroke="black" />
-  <line x1="220" y1="90" x2="220" y2="210" stroke="black" />
-  <line x1="320" y1="90" x2="320" y2="210" stroke="black" />
-  <line x1="420" y1="90" x2="420" y2="210" stroke="black" />
-  <line x1="520" y1="90" x2="520" y2="210" stroke="black" />
-  <line x1="620" y1="90" x2="620" y2="210" stroke="black" />
-  <line x1="720" y1="90" x2="720" y2="210" stroke="black" />
+  <line x1="120" y1="90" x2="120" y2="250" stroke="#333" />
+  <line x1="220" y1="90" x2="220" y2="250" stroke="#333" />
+  <line x1="320" y1="90" x2="320" y2="250" stroke="#333" />
+  <line x1="420" y1="90" x2="420" y2="250" stroke="#333" />
+  <line x1="520" y1="90" x2="520" y2="250" stroke="#333" />
+  <line x1="620" y1="90" x2="620" y2="250" stroke="#333" />
+  <line x1="720" y1="90" x2="720" y2="250" stroke="#333" />
 
   <!-- Row lines -->
-  <line x1="20" y1="130" x2="780" y2="130" stroke="black" stroke-opacity="0.5" />
-  <line x1="20" y1="170" x2="780" y2="170" stroke="black" stroke-opacity="0.5" />
+  <line x1="20" y1="130" x2="780" y2="130" stroke="#333" stroke-opacity="0.5" />
+  <line x1="20" y1="170" x2="780" y2="170" stroke="#333" stroke-opacity="0.5" />
+  <line x1="20" y1="210" x2="780" y2="210" stroke="#333" stroke-opacity="0.5" />
 
   <!-- Particle rows -->
   <text x="50" y="120">Electron</text>
-  <circle cx="370" cy="115" r="5" fill="black" />
+  <circle cx="370" cy="115" r="5" fill="#333" />
 
   <text x="50" y="160">Up quark</text>
-  <circle cx="470" cy="155" r="5" fill="black" />
+  <circle cx="570" cy="155" r="5" fill="#333" />
 
   <text x="50" y="200">Neutrino</text>
-  <circle cx="470" cy="195" r="5" fill="black" />
+  <circle cx="470" cy="195" r="5" fill="#333" />
+
+  <text x="50" y="240">etc. (other particles)</text>
+
 
 </svg>
