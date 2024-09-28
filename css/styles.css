@@ -50,11 +50,10 @@ p {
 }
 
 .image-caption {
-    font-size: 0.9em;
     font-style: italic;
     text-align: center;
     margin-top: 0.5em;
-    color: #ccc;
+    color: #ffffff;
 }
 
 a {
