@@ -35,6 +35,15 @@ Lloyd Zirbes released and had distributed, through an agent, a set of blueprints
 ### [Blueprints](original/blueprints) [PDF](https://github.com/LloydBZirbes/docs/tree/main/original/blueprints/pdf-version) / [Tiff](https://github.com/LloydBZirbes/docs/tree/main/original/blueprints/tiff-format)
 ### [Prototypes](original/prototypes)
 
+# Published in Fulcrum Magazine (October 1996)
+
+Lloyd Zirbes' "Old World Math — New World Math" and his letter to Carrick Talmadge (Purdue University, March 3, 1987) were published in **Fulcrum** magazine, Volume 4, Number 3, October 1996 (pp. 11–14). Fulcrum was the quarterly journal of the University of Science and Philosophy (USP), founded by Walter and Lao Russell in Swannanoa, Virginia, published 1992–1998.
+
+Editor Dr. Timothy A. Binder introduced Zirbes' work in the Q&A section (pp. 2–5), connecting it to Walter Russell's cosmogony and to Prof. Felix Ehrenhaft's magnetic ion experiments. Binder wrote: "Zirbes' tests reveal that different masses fall with different rates of speed even if they are not magnetically or electrically charged," and endorsed the findings as compatible with Russell's two-way gravity framework. In the follow-up issue (V5N1, May 1997), Binder and Larry Tiegs discussed G=mv² further in the context of Russell's physics.
+
+- [Binder's editorial commentary connecting Zirbes to Russell](fulcrum-v4n3-binder-commentary.md)
+- [Fulcrum V4N3 PDF pages — Binder Q&A (pp. 2–5) + Zirbes articles (pp. 11–14)](original/fulcrum-v4n3-zirbes-pages.pdf)
+
 # Archival
 This project is being backed-up to the [Github Archival Program](https://archiveprogram.github.com/faq/)
 
