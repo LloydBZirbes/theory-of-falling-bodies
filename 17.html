@@ -1,0 +1,257 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chapter 17: Tank Electrical Generator - Lloyd B. Zirbes: Theory of Falling Bodies</title>
+    <link href="https://fonts.googleapis.com/css2?family=Raleway:wght@400;500;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/styles.css">
+    <link rel="stylesheet" href="css/tooltip.css">
+    <link rel="icon" type="image/svg+xml" href="./img/project-stardust.svg">
+    <style>
+        .chapter-content img {
+            max-width: 100%;
+            height: auto;
+        }
+    </style>
+</head>
+<body>
+    <div class="dark-mode-toggle">
+        <label class="toggle-switch">
+            <input type="checkbox" id="dark-mode-toggle">
+            <span class="slider"></span>
+        </label>
+    </div>
+    <header>
+        <h1>Lloyd B. Zirbes: Theory of Falling Bodies</h1>
+    </header>
+    <nav>
+        <a href="table-of-contents.html">Table of Contents</a>
+    </nav>
+    <main>
+        <h2>Chapter 17: Tank Electrical Generator</h2>
+
+        <div class="chapter-content">
+            <h2>Tank Electrical Generator</h2>
+
+            <p>Look at the capacitor as a battery, because it acts just like a battery.</p>
+
+            <figure>
+                <img src="img/tank-generator/fig1.jpg" alt="Diagram: capacitor being energized by a battery" style="max-width:100%; height:auto;">
+                <figcaption>Capacitor energized by battery</figcaption>
+            </figure>
+
+            <p>Energize the capacitor as seen above, disconnect the capacitor from the battery, it will now be charged with a voltage equal to the battery and contain a amperage value in accordance with the capacity of the capacitor, see the following drawing.</p>
+
+            <figure>
+                <img src="img/tank-generator/fig2.jpg" alt="Diagram: charged capacitor disconnected from battery" style="max-width:100%; height:auto;">
+                <figcaption>Charged capacitor disconnected from battery</figcaption>
+            </figure>
+
+            <p>We will now connect the charged capacitor across a one to one transformer and allow the capacitor to discharge through the primary of the transformer as seen below.</p>
+
+            <figure>
+                <img src="img/tank-generator/fig3.jpg" alt="Diagram: capacitor discharging through transformer primary winding" style="max-width:100%; height:auto;">
+                <figcaption>Capacitor discharging through transformer primary</figcaption>
+            </figure>
+
+            <p>The discharging of the capacitor through the transformer primary winding (TP) results in the current (mass) in the capacitor to pass through the primary winding under a potential of 60 volts.</p>
+
+            <p>This will reflect in the transformer secondary winding (TS) as Follows. The transformer secondary (TS) winding will begin with a zero output and then move to a maximum output and then decay back to zero, the output of the TS is shown in the following illustration.</p>
+
+            <figure>
+                <img src="img/tank-generator/fig4.jpg" alt="Diagram: transformer secondary output showing half AC cycle" style="max-width:100%; height:auto;">
+                <figcaption>Transformer secondary output — half AC cycle</figcaption>
+            </figure>
+
+            <p>The instruments, i.e. voltmeters ampere meters and oscilloscope will tell you exactly whats happening. The O-scope will show 1/2 the A-C cycle and the voltage of that 1/2 cycle as seen below.</p>
+
+            <figure>
+                <img src="img/tank-generator/fig5.jpg" alt="Diagram: oscilloscope showing half cycle waveform" style="max-width:100%; height:auto;">
+                <figcaption>Oscilloscope view of half cycle</figcaption>
+            </figure>
+
+            <p>Now reverse the polarity of the battery and once again charge the capacitor. Now discharge the capacitor through the primary winding of the transformer and you complete the alternating current output from the secondary winding of the transformer.</p>
+
+            <p>The first discharge (we will assume) was in a positive direction, this discharge will then be in a negative direction, the completed sine wave can be seen in the following illustration.</p>
+
+            <figure>
+                <img src="img/tank-generator/fig6.jpg" alt="Diagram: completed sine wave showing full AC cycle" style="max-width:100%; height:auto;">
+                <figcaption>Completed sine wave — full AC cycle</figcaption>
+            </figure>
+
+            <p>The reversing of the capacitor charge is exactly what happens when the tank circuit begins to oscillate! Therefor, with 60 volts of direct current applied to the tank circuit, the alternating current output will be doubled or in this case, 120 volts A.C. a capacitor, under operating conditions, will never completely discharge. It will discharge about 63 percent of its ampere (mass) charge. Further more, the amperes (mass) itself will oscillate from one side of the capacitor to the other side, this results in a lower value of amperes required from the input power.</p>
+
+            <p>To select the proper values of your components you must first decide what output power is desired. Assuming you want an output power of 120 A.C. volts with about a 20 ampere flow (2400 watts) you will select a capacitor that will "hold" 17 amperes with a 60 volt pressure across it. The capacitor will discharge 63 percent of the amperage it contains. Therefor, 63 percent of the 17 amperes is 10.71 amperes. That 10.71 amperes is now "pushed" through the primary winding of the transformer by the 60 volt charge of the capacitor.</p>
+
+            <p>A quality transformer is about 97 percent efficient, thereby; each &frac12; cycle will have an output of 618 watts, therefor, a complete cycle will have an output of 120 A.C. volts and an ampere flow of 10.3 A.C. amperes, or a total of 1236 A.C. watts.</p>
+
+            <hr>
+
+            <p>Now, lets consider the input power. We will assume that you have a "hairy" capacitor that will accept 17 amperes with 60 D.C. volts across it. That capacitor is hooked in parallel with the primary winding of a properly designed transformer. The capacitor, transformer circuit (tank) is now connected to a D.C. source with a 60 volt value and an unrestricted ampere flow of at least 17 amperes. See following illustration.</p>
+
+            <figure>
+                <img src="img/tank-generator/fig7.jpg" alt="Diagram: tank circuit connected to DC source with 60 volts and 17 amperes" style="max-width:100%; height:auto;">
+                <figcaption>Tank circuit connected to DC source</figcaption>
+            </figure>
+
+            <p>We will assume that this tank is designed to oscillate at 60 cycles per second.</p>
+
+            <p>Now- when you turn on the switch the circuit will consume 17 amperes of current, this consumption will have a duration of 16.6 milli seconds (16.6/1000 sec.) The current flow will then drop to 10 amperes after a second duration of 16.6 milli seconds. During the third duration, the ampere flow will drop to 4 amperes. The tank will there after remain at a consumption value of 4 amperes. This is because the tank will oscillate the current back and forth and will remain in the tank circuit, the current that remains in the tank circuit will not be replaced. Therefor; we have an input power of 60 volts and 4 amperes; the power in is 240 watts. Compare the 240 watts in with the 1236 A.C. watts out!!!</p>
+
+            <p>The previous information is for the sole purpose of showing how a tank works with the related input to output power to output power.</p>
+
+            <hr>
+
+            <p>We can now see a problem as the load on the secondary winding is increased. The output voltage begins to fall.</p>
+
+            <p>We will overcome the output voltage problem by injecting a D.c. voltage in to eaeh tank. In the injector circuit, which is taken from the out-put winding of the transformer, we will lose about 5 percent of the total output power.</p>
+
+            <p>However, in the process of injecting a voltage into each tank we can decrease the voltage as used in the ampere supply circuit.</p>
+
+            <p>Keep in mind that a capacitor will Block the Passage of Direct Current. But the capacitor will pass a Alternating current. Therefor, it becomes absolutely necessary to apply Direct current to the tanks.!!!</p>
+
+            <p>Although the tank itself will be energized by two seperate circuits, the tank will respond and accept the voltage and the amperes made available to it; it will than become a circuit in itself and the tank function will be independent of the input circuits.</p>
+
+            <p>I would strongly urge that you use 120 volts for your output power. By doing this, you can use for the load, standard household light bulbs.</p>
+
+            <hr>
+
+            <p>To keep things as simple as possible, I would suggest that 4 tanks be used. This means you will need 4 transformers that are identical.</p>
+
+            <p>You will use tertiary transformers, that is to say; a transformer with 3 windings. In the following drawing is a tertiary wound transformer.</p>
+
+            <figure>
+                <img src="img/tank-generator/fig8.jpg" alt="Diagram: tertiary wound transformer with 3 windings" style="max-width:100%; height:auto;">
+                <figcaption>Tertiary wound transformer (x former)</figcaption>
+            </figure>
+
+            <p>The primary and the 2nd, secondary will be a l to l winding; that is to say, they are equal. The 1st. secondary will be used for the voltage injector circuit. The 1st. secondary winding must have a one half (&frac12;) cycle output of 60 volts and a very low ampere output of 500 milli amperes (&frac12; amp). The total output of the 1st secondary winding will then be 120 volts with a &frac12; ampere current flow, the alternating current wattage will be 60 watts. The 60 A.C. watts must now be rectified with a full wave rectifier, with filters. This will result in a smooth D.C. voltage of 60 volts.</p>
+
+            <p>The diodes must be of good quality. A damaged or malfunctioning diode will result in excessive voltage drop across the diode, resulting in a lower then desired D.C. voltage. The filters must be of a correct value to eliminate a possible pulsating D.C. output. Of course, the filters are merely capacitors on each leg of the rectified D.C. output.</p>
+
+            <hr>
+
+            <p><b>FROM THIS POINT ON, I WILL ASSUME THE FINAL ALTERNATING CURRENT OUTPUT IS 120 VOLTS AT A AMPERE VALUE OF 10.05 (P=IE) OR 1206 WATTS. This allows for 5% loss which will be used in the voltage injector system</b></p>
+
+            <p>The current supply system will be backed with 15 volts (D.C.) being dropped across each tank circuit, therefor, 4 tanks at 15 volts each equals a source voltage of 60 volts</p>
+
+            <figure>
+                <img src="img/tank-generator/fig9.jpg" alt="Diagram: 4 tank circuits in series with 15 volts across each" style="max-width:100%; height:auto;">
+                <figcaption>4 tank circuits with 15 volts across each</figcaption>
+            </figure>
+
+            <p>The above circuit shows 4 tank circuits. Placing volt meters across the tanks will show that each tank circuit will have 15 volts dropped across it as show.</p>
+
+            <p>When the circuit is first switched on it will consume 17 amperes, it will than decrease to 10 amperes and than decrease to the continuous operation amperage of 4 amperes.</p>
+
+            <p>The ampere flow decrease will take place within several seconds, therefor, the power consumed in the ampere supply circuit will be 240 D.c. watts. To assure a pure D.C. supply it would be logical to use 5- 12 volt wet cell batteries that are connected in series.</p>
+
+            <figure>
+                <img src="img/tank-generator/fig10.jpg" alt="Diagram: 5 car batteries connected in series providing 60 volts with 100 amperes available" style="max-width:100%; height:auto;">
+                <figcaption>5 car batteries in series — 60 volt supply</figcaption>
+            </figure>
+
+            <p>This arrangement of car batteries will give a pure 60 volt supply with 100 amperes available, however, the tank circuit in operation will only draw 4 amps.</p>
+
+            <hr>
+
+            <p>We can now look at the voltage injector system. To produce 120 volts A.C. to the output we will insert 60 volts of D.C. into the tank system.</p>
+
+            <p>The number two winding of the tertiary transformer is designed to produce 60 volts in each direction, positive direction 60 volts and negitive direction 60 volts.</p>
+
+            <p>This A.C. voltage will now be rectified with a full wave rectifier which will produce a 60 volt D.c. potential.</p>
+
+            <figure>
+                <img src="img/tank-generator/fig11.jpg" alt="Diagram: full wave rectifier producing 60 volt DC from tertiary transformer secondary" style="max-width:100%; height:auto;">
+                <figcaption>Full wave rectifier — 60 volt DC output</figcaption>
+            </figure>
+
+            <p>We can now place the rectified D.C. from tank 1 to tank 2- the rectified D.C. from tank 2 will go to tank 3, the rectified D.C. from tank 3 will be connected to tank 4 and the rectified D.C. from tank 4 will be connected to tank number 1.</p>
+
+            <p>The voltage injection circuit may be seen in the following schematic.</p>
+
+            <figure>
+                <img src="img/tank-generator/fig12.jpg" alt="Schematic: voltage injection circuit showing interconnected 4 tank circuits" style="max-width:100%; height:auto;">
+                <figcaption>Voltage injection circuit schematic</figcaption>
+            </figure>
+
+            <p>The voltage injector system will keep itself energized after it is in operation.</p>
+
+            <p>The primary energizing of the tank generators voltage injector system can be done by using the D.C. power supply from the current supply battery source. As can be seen below.</p>
+
+            <figure>
+                <img src="img/tank-generator/fig13.jpg" alt="Diagram: energizer circuit connecting DC power supply to voltage injector system" style="max-width:100%; height:auto;">
+                <figcaption>Energizer circuit for initial startup</figcaption>
+            </figure>
+
+            <p>The voltage injector system may be energized by the energizer circuit by connecting to any convenient place into one of the voltage injector circuits.</p>
+
+            <p>The single energized voltage circuit will reflect through out the 4 tank circuits within several seconds, the compound switch can than be opened and the circuit will continue to function.</p>
+
+            <p>We can now put the tank electrical generator together.</p>
+
+            <p>Under operating conditions, the total D.C. input power will be 240 watts.<br>
+            Under operating conditions, the total A.C. output power is 4,729 watts.</p>
+
+            <figure>
+                <img src="img/tank-generator/fig14.jpg" alt="Complete schematic: tank electrical generator with all 4 tanks, voltage injector, and current supply" style="max-width:100%; height:auto;">
+                <figcaption>Complete tank electrical generator schematic</figcaption>
+            </figure>
+
+            <p>This power gain is not magic, there is nothing mystical about it. This function is the results of using or/and recycling the ampere flow over and over again. As the amperage oscillates back and forth in a tank, the output winding of the transformer produces a substantial usable wattage, when a small amount of current (4Amps) leaves a tank, it moves to another tank and is once more used in the oscillation of that tank.</p>
+
+            <p>We really do not have to speak of efficiency factors because we will with a passing of time, use the output power from one of the tanks to provide for the current flow system. Of course, we could eliminate the voltage injector system and apply the required voltage with the current flow circuit, you could, or perhaps should consider this option, however, there must be 60 D.C. volts dropped across each tank circuit so as to provide an A.C. output of 120 volts.</p>
+
+            <p>That would mean (using 4 tanks) the current circuit would have to be backed with 240 D.C. volts, the ampere flow would remain the same. Therefor, the 4 amperes times the voltage of 240 would mean a wattage consumption of 960. The output wattage will remain the same.</p>
+
+            <p>With 960 D.C. watts input and a output of 4,729 watts is not to bad. The A.C. output is apparent power; the actual power, or true power out is 50 percent of the A.C. power, which is the direct current value. In regards to the situation we are now speaking of, this results in 960 D.C. watts as input power and 2360 D.C. watts of output power. this represents actual power, not apparent power.!</p>
+
+            <p>Therefor; we have a true power gain of 2.4, in other words, we have 140 percent over unity.!</p>
+
+            <p>As previously mentioned, we need not consider efficiency factors should you decide to use the output of one of the tanks as the input supply.</p>
+
+            <hr>
+
+            <p>There is advantage of using the current and voltage system together.<br>
+            1/ The transformers will be more economical.<br>
+            2/ Eliminate the need of 4 full wave rectifiers.</p>
+
+            <p>There is also disadvantages<br>
+            1/ You will need 20 wet cell batteries.<br>
+            2/ The input power requirements are greater.</p>
+
+            <hr>
+
+            <p>Should you decide to use a single circuit for the voltage and the amperes, you will than begin with 4; l to l transformers. l to l simply indicates the primary winding is the very same as the secondary winding.</p>
+
+            <figure>
+                <img src="img/tank-generator/fig15.jpg" alt="Diagram: 4 tanks with 1:1 transformers using single circuit for voltage and amperes" style="max-width:100%; height:auto;">
+                <figcaption>4 tanks with 1:1 transformers — single supply circuit</figcaption>
+            </figure>
+
+            <p>Should you decide to construct a completely self contained unit, i.e. no outside power in.</p>
+
+            <p>You will then need 3; l to l transformers and l; l to two transformers. the step up transformer (1-2) will provide the 240 volts required for the supply.</p>
+
+            <figure>
+                <img src="img/tank-generator/fig16.jpg" alt="Diagram: self-contained unit with 3 x 1:1 transformers and 1 x 1:2 step-up transformer" style="max-width:100%; height:auto;">
+                <figcaption>Self-contained unit — no outside power required</figcaption>
+            </figure>
+
+            <p>This circuit must be energized by a outside source of 240 volts D.C. After it is energized the outside source (batteries) is removed. This circuit has a zero value of input power and a output power of 3546 A.C. watts.</p>
+
+            <hr>
+
+            <p>The power supply circuit transformer has an output voltage of 240 and 4.9 amperes which is (P=EI) 1182 watts.</p>
+        </div>
+
+        <div class="chapter-navigation">
+            <a href="16.html" class="prev-chapter">Previous Chapter</a>
+            <a href="18.html" class="next-chapter">Next Chapter</a>
+        </div>
+    </main>
+    <div class="overlay"></div>
+    <script src="js/script.js"></script>
+</body>
+</html>
